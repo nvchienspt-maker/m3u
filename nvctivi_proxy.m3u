@@ -147,25 +147,20 @@ https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%A5%20Truy%E1%BB%81n%2
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%A5%20Truy%E1%BB%81n%20H%C3%ACnh%20C%C3%A1p%20SCTV&name=SCTV22
 
-#EXTINF:-1 tvg-id="onviegiaitri" tvg-name="ON Vie Giải Trí" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onviegiaitri.png" group-title="🎬 Phim Truyện & Giải Trí",ON Vie Giải Trí
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%BB%87n%20%26%20Gi%E1%BA%A3i%20Tr%C3%AD&name=ON%20Vie%20Gi%E1%BA%A3i%20Tr%C3%AD
-
 #EXTINF:-1 tvg-id="onviedramas" tvg-name="ON Vie Dramas" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onviedramas.png" group-title="🎬 Phim Truyện & Giải Trí",ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%BB%87n%20%26%20Gi%E1%BA%A3i%20Tr%C3%AD&name=ON%20Vie%20Dramas
 
-#EXTINF:-1 tvg-id="onechannel" tvg-name="ON E-Channel" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onechannel.png" group-title="🎬 Phim Truyện & Giải Trí",ON E-Channel
+#EXTINF:-1 tvg-id="onstyle" tvg-name="ON Style TV" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onstyle.png" group-title="🎬 Phim Truyện & Giải Trí",ON Style TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%BB%87n%20%26%20Gi%E1%BA%A3i%20Tr%C3%AD&name=ON%20E-Channel
+https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%BB%87n%20%26%20Gi%E1%BA%A3i%20Tr%C3%AD&name=ON%20Style%20TV
 
-#EXTINF:-1 tvg-id="onmusic" tvg-name="On Music" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onmusic.png" group-title="🎬 Phim Truyện & Giải Trí",On Music
+#EXTINF:-1 tvg-id="onbibi" tvg-name="On BiBi" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onbibi.png" group-title="👧 Thiếu Nhi & Gia Đình",On BiBi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%BB%87n%20%26%20Gi%E1%BA%A3i%20Tr%C3%AD&name=On%20Music
+https://nvctivi-stream.workers.dev/channel?group=%F0%9F%91%A7%20Thi%E1%BA%BFu%20Nhi%20%26%20Gia%20%C4%90%C3%ACnh&name=On%20BiBi
 
 #EXTINF:-1 tvg-id="onkids" tvg-name="On Kids" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onkids.png" group-title="👧 Thiếu Nhi & Gia Đình",On Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)

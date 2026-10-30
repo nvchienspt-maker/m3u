@@ -1,8 +1,8 @@
 {
   "app": "NVC Tivi",
   "version": "2.0.0",
-  "generated_at": "2026-10-30 03:50:09",
-  "total_live_channels": 57,
+  "generated_at": "2026-10-30 03:55:58",
+  "total_live_channels": 56,
   "epg_urls": [
     "https://epg.io.vn/epgc.xml",
     "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
@@ -23,7 +23,7 @@
       "tvg_id": "vtv1hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv1hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist_360p.m3u8",
-      "latency_ms": 878,
+      "latency_ms": 997,
       "status": "online"
     },
     {
@@ -32,7 +32,7 @@
       "tvg_id": "vtv2hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv2hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/playlist_360p.m3u8",
-      "latency_ms": 895,
+      "latency_ms": 618,
       "status": "online"
     },
     {
@@ -41,7 +41,7 @@
       "tvg_id": "vtv3hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv3hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/playlist_360p.m3u8",
-      "latency_ms": 820,
+      "latency_ms": 636,
       "status": "online"
     },
     {
@@ -50,7 +50,7 @@
       "tvg_id": "vtv4hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv4hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist_360p.m3u8",
-      "latency_ms": 1525,
+      "latency_ms": 1621,
       "status": "online"
     },
     {
@@ -59,7 +59,7 @@
       "tvg_id": "vtv5hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv5hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist_360p.m3u8",
-      "latency_ms": 1530,
+      "latency_ms": 1629,
       "status": "online"
     },
     {
@@ -68,7 +68,7 @@
       "tvg_id": "vtv5hdtnb",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv5hdtnb.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/playlist_360p.m3u8",
-      "latency_ms": 1514,
+      "latency_ms": 1610,
       "status": "online"
     },
     {
@@ -77,7 +77,7 @@
       "tvg_id": "vtv5hdtn",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv5hdtn.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/playlist_360p.m3u8",
-      "latency_ms": 1512,
+      "latency_ms": 1630,
       "status": "online"
     },
     {
@@ -86,7 +86,7 @@
       "tvg_id": "vtvcanthohd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv6hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/playlist_360p.m3u8",
-      "latency_ms": 1513,
+      "latency_ms": 1623,
       "status": "online"
     },
     {
@@ -95,7 +95,7 @@
       "tvg_id": "vtv7hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv7hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/playlist_360p.m3u8",
-      "latency_ms": 1560,
+      "latency_ms": 1789,
       "status": "online"
     },
     {
@@ -104,7 +104,7 @@
       "tvg_id": "vtv8hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv8hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/playlist_360p.m3u8",
-      "latency_ms": 1563,
+      "latency_ms": 1623,
       "status": "online"
     },
     {
@@ -113,7 +113,7 @@
       "tvg_id": "vtv9hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv9hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/playlist_360p.m3u8",
-      "latency_ms": 802,
+      "latency_ms": 863,
       "status": "online"
     },
     {
@@ -122,7 +122,7 @@
       "tvg_id": "vietnamtoday",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vietnamtoday.png",
       "url": "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
-      "latency_ms": 241,
+      "latency_ms": 190,
       "status": "online"
     },
     {
@@ -131,7 +131,7 @@
       "tvg_id": "sctv2hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv2hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8",
-      "latency_ms": 652,
+      "latency_ms": 836,
       "status": "online"
     },
     {
@@ -140,7 +140,7 @@
       "tvg_id": "sctv3hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv3hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/master.m3u8",
-      "latency_ms": 593,
+      "latency_ms": 902,
       "status": "online"
     },
     {
@@ -149,7 +149,7 @@
       "tvg_id": "sctv4hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv4hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8",
-      "latency_ms": 647,
+      "latency_ms": 825,
       "status": "online"
     },
     {
@@ -158,7 +158,7 @@
       "tvg_id": "sctv6hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv6hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8",
-      "latency_ms": 675,
+      "latency_ms": 828,
       "status": "online"
     },
     {
@@ -167,7 +167,7 @@
       "tvg_id": "sctv7hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv7hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8",
-      "latency_ms": 634,
+      "latency_ms": 839,
       "status": "online"
     },
     {
@@ -176,7 +176,7 @@
       "tvg_id": "sctv9hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv9hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8",
-      "latency_ms": 944,
+      "latency_ms": 919,
       "status": "online"
     },
     {
@@ -185,7 +185,7 @@
       "tvg_id": "sctv11hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv11hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8",
-      "latency_ms": 898,
+      "latency_ms": 889,
       "status": "online"
     },
     {
@@ -194,7 +194,7 @@
       "tvg_id": "sctv12hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv12hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8",
-      "latency_ms": 901,
+      "latency_ms": 855,
       "status": "online"
     },
     {
@@ -203,7 +203,7 @@
       "tvg_id": "sctv13hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv13hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8",
-      "latency_ms": 895,
+      "latency_ms": 743,
       "status": "online"
     },
     {
@@ -212,7 +212,7 @@
       "tvg_id": "sctv14hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv14hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8",
-      "latency_ms": 732,
+      "latency_ms": 842,
       "status": "online"
     },
     {
@@ -221,7 +221,7 @@
       "tvg_id": "sctv15hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv15hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv15/master.m3u8",
-      "latency_ms": 922,
+      "latency_ms": 823,
       "status": "online"
     },
     {
@@ -230,7 +230,7 @@
       "tvg_id": "sctv16hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv16hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8",
-      "latency_ms": 669,
+      "latency_ms": 972,
       "status": "online"
     },
     {
@@ -239,7 +239,7 @@
       "tvg_id": "sctv17hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv17hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv17/master.m3u8",
-      "latency_ms": 594,
+      "latency_ms": 820,
       "status": "online"
     },
     {
@@ -248,7 +248,7 @@
       "tvg_id": "sctv18hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv18hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8",
-      "latency_ms": 869,
+      "latency_ms": 686,
       "status": "online"
     },
     {
@@ -257,7 +257,7 @@
       "tvg_id": "sctv19hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv19hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8",
-      "latency_ms": 878,
+      "latency_ms": 613,
       "status": "online"
     },
     {
@@ -266,7 +266,7 @@
       "tvg_id": "sctv20hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv20hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8",
-      "latency_ms": 844,
+      "latency_ms": 809,
       "status": "online"
     },
     {
@@ -275,16 +275,7 @@
       "tvg_id": "sctv22hd",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv22hd.png",
       "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv22/master.m3u8",
-      "latency_ms": 727,
-      "status": "online"
-    },
-    {
-      "name": "ON Vie Giải Trí",
-      "group": "🎬 Phim Truyện & Giải Trí",
-      "tvg_id": "onviegiaitri",
-      "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onviegiaitri.png",
-      "url": "https://vietmitv.id.vn/c.php?k=5c975ba",
-      "latency_ms": 4353,
+      "latency_ms": 680,
       "status": "online"
     },
     {
@@ -293,25 +284,25 @@
       "tvg_id": "onviedramas",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onviedramas.png",
       "url": "https://vietmitv.id.vn/c.php?k=2a92be7",
-      "latency_ms": 5415,
+      "latency_ms": 2544,
       "status": "online"
     },
     {
-      "name": "ON E-Channel",
+      "name": "ON Style TV",
       "group": "🎬 Phim Truyện & Giải Trí",
-      "tvg_id": "onechannel",
-      "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onechannel.png",
-      "url": "https://vietmitv.id.vn/c.php?k=2094832",
-      "latency_ms": 6558,
+      "tvg_id": "onstyle",
+      "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onstyle.png",
+      "url": "https://vietmitv.id.vn/c.php?k=db10182",
+      "latency_ms": 4017,
       "status": "online"
     },
     {
-      "name": "On Music",
-      "group": "🎬 Phim Truyện & Giải Trí",
-      "tvg_id": "onmusic",
-      "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onmusic.png",
-      "url": "https://vietmitv.id.vn/c.php?k=2406e6c",
-      "latency_ms": 12364,
+      "name": "On BiBi",
+      "group": "👧 Thiếu Nhi & Gia Đình",
+      "tvg_id": "onbibi",
+      "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onbibi.png",
+      "url": "https://vietmitv.id.vn/c.php?k=0009010",
+      "latency_ms": 3725,
       "status": "online"
     },
     {
@@ -320,7 +311,7 @@
       "tvg_id": "onkids",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onkids.png",
       "url": "https://vietmitv.id.vn/c.php?k=facd9a9",
-      "latency_ms": 11221,
+      "latency_ms": 3726,
       "status": "online"
     },
     {
@@ -329,7 +320,7 @@
       "tvg_id": "haiphong",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/haiphong.png",
       "url": "https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8",
-      "latency_ms": 2900,
+      "latency_ms": 2029,
       "status": "online"
     },
     {
@@ -338,7 +329,7 @@
       "tvg_id": "tuyenquang",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/tuyenquang.png",
       "url": "https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8",
-      "latency_ms": 1518,
+      "latency_ms": 935,
       "status": "online"
     },
     {
@@ -347,7 +338,7 @@
       "tvg_id": "thainguyen",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/thainguyen.png",
       "url": "https://streaming.thainguyentv.vn/hls/livestream.m3u8",
-      "latency_ms": 1964,
+      "latency_ms": 1224,
       "status": "online"
     },
     {
@@ -356,7 +347,7 @@
       "tvg_id": "quangninh1",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/quangninh1.png",
       "url": "https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/chunklist.m3u8",
-      "latency_ms": 1972,
+      "latency_ms": 1562,
       "status": "online"
     },
     {
@@ -365,7 +356,7 @@
       "tvg_id": "bacninh",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/bacninh.png",
       "url": "https://live-hq.evgcdn.net/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8",
-      "latency_ms": 1468,
+      "latency_ms": 1340,
       "status": "online"
     },
     {
@@ -374,7 +365,7 @@
       "tvg_id": "phutho",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/phutho.png",
       "url": "https://live.mediatech.vn/live/2856e81d201c99b4649b5c62f3cddad3881/chunklist.m3u8",
-      "latency_ms": 795,
+      "latency_ms": 515,
       "status": "online"
     },
     {
@@ -383,7 +374,7 @@
       "tvg_id": "sonla",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sonla.png",
       "url": "https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8",
-      "latency_ms": 1052,
+      "latency_ms": 546,
       "status": "online"
     },
     {
@@ -392,7 +383,7 @@
       "tvg_id": "dienbien",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/dienbien.png",
       "url": "https://live-hq.evgcdn.net/live/2855dfeccb7f49a41a2b0441b3bfeda413c/chunklist.m3u8",
-      "latency_ms": 857,
+      "latency_ms": 1016,
       "status": "online"
     },
     {
@@ -401,7 +392,7 @@
       "tvg_id": "hungyen",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/hungyen.png",
       "url": "https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8",
-      "latency_ms": 961,
+      "latency_ms": 482,
       "status": "online"
     },
     {
@@ -410,7 +401,7 @@
       "tvg_id": "ninhbinh",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/ninhbinh.png",
       "url": "https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8",
-      "latency_ms": 1004,
+      "latency_ms": 513,
       "status": "online"
     },
     {
@@ -419,7 +410,7 @@
       "tvg_id": "nghean",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/nghean.png",
       "url": "https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8",
-      "latency_ms": 873,
+      "latency_ms": 342,
       "status": "online"
     },
     {
@@ -428,7 +419,7 @@
       "tvg_id": "tayninh",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/tayninhtv.png",
       "url": "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8",
-      "latency_ms": 1157,
+      "latency_ms": 1073,
       "status": "online"
     },
     {
@@ -437,7 +428,7 @@
       "tvg_id": "tvbvietnam",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/tvb-vietnam.png",
       "url": "https://vietmitv.id.vn/c.php?k=24a932f1ddbed2be",
-      "latency_ms": 6422,
+      "latency_ms": 7527,
       "status": "online"
     },
     {
@@ -446,7 +437,7 @@
       "tvg_id": "kbsworld",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/kbsworld.png",
       "url": "https://vietmitv.id.vn/c.php?k=de55dd1c30425798",
-      "latency_ms": 3670,
+      "latency_ms": 9209,
       "status": "online"
     },
     {
@@ -455,7 +446,7 @@
       "tvg_id": "nhkworld",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/nhk.png",
       "url": "https://vietmitv.id.vn/c.php?k=821cc0a76b9ae654",
-      "latency_ms": 2149,
+      "latency_ms": 7470,
       "status": "online"
     },
     {
@@ -464,7 +455,7 @@
       "tvg_id": "nhk_premium",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/nhk.png",
       "url": "https://vietmitv.id.vn/c.php?k=3714b1cfca8cac1f",
-      "latency_ms": 5923,
+      "latency_ms": 4855,
       "status": "online"
     },
     {
@@ -473,7 +464,7 @@
       "tvg_id": "france24",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/france24.png",
       "url": "https://vietmitv.id.vn/c.php?k=61ba002639c4e0c8",
-      "latency_ms": 3823,
+      "latency_ms": 4446,
       "status": "online"
     },
     {
@@ -482,7 +473,7 @@
       "tvg_id": "dw",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/dw.png",
       "url": "https://vietmitv.id.vn/c.php?k=0c33f1bb2e61a86e",
-      "latency_ms": 3065,
+      "latency_ms": 9653,
       "status": "online"
     },
     {
@@ -491,7 +482,7 @@
       "tvg_id": "channelnewsasia",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/channelnewsasia.png",
       "url": "https://vietmitv.id.vn/c.php?k=e47519e6c738f235",
-      "latency_ms": 3604,
+      "latency_ms": 7947,
       "status": "online"
     },
     {
@@ -500,7 +491,7 @@
       "tvg_id": "tv5monde",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/tv5monde.png",
       "url": "https://vietmitv.id.vn/c.php?k=fd70eaf55b8ad286",
-      "latency_ms": 3972,
+      "latency_ms": 7669,
       "status": "online"
     },
     {
@@ -509,7 +500,7 @@
       "tvg_id": "kix",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/kix.png",
       "url": "https://vietmitv.id.vn/c.php?k=efa3a413e6c10a76",
-      "latency_ms": 3822,
+      "latency_ms": 2756,
       "status": "online"
     },
     {
@@ -518,7 +509,7 @@
       "tvg_id": "arirang",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/arirang.png",
       "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-      "latency_ms": 535,
+      "latency_ms": 516,
       "status": "online"
     },
     {
@@ -527,7 +518,7 @@
       "tvg_id": "vbstv",
       "logo": "https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vbstv.png",
       "url": "https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8",
-      "latency_ms": 290,
+      "latency_ms": 339,
       "status": "online"
     }
   ]
