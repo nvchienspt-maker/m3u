@@ -1,0 +1,74 @@
+name: Sync & Validate nvc Playlist
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/sync.yml'
+      - 'scripts/**'
+  schedule:
+    - cron: '15 */4 * * *'  # Chạy kiểm tra và cập nhật tự động mỗi 4 tiếng
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nvc-playlist-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests cryptography
+
+      - name: Check scripts syntax
+        run: |
+          python -m py_compile scripts/nvc_crawler.py
+          python -m py_compile scripts/update.py
+
+      - name: Crawl & Validate Live Channels
+        run: python scripts/nvc_crawler.py
+
+      - name: Run nvc sync & optional encryption
+        run: python scripts/update.py
+        env:
+          UPSTREAM_PLAYLIST_URL: ${{ secrets.UPSTREAM_PLAYLIST_URL }}
+          NVC_PRIVATE_KEY_B64: ${{ secrets.NVC_PRIVATE_KEY_B64 || secrets.NVCENC3_PRIVATE_KEY_B64 }}
+
+      - name: Validate nvc playlist
+        run: python scripts/update.py --validate-only
+        env:
+          NVC_PRIVATE_KEY_B64: ${{ secrets.NVC_PRIVATE_KEY_B64 || secrets.NVCENC3_PRIVATE_KEY_B64 }}
+
+      - name: Commit and push changes if updated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add nvctivi.m3u nvctivi_proxy.m3u nvctivi_channels.json REPORT_LIVE_CHANNELS.md
+          if [ -f nvc.enc ]; then
+            git add nvc.enc
+          fi
+
+          if git diff --cached --quiet; then
+            echo "Không có thay đổi về luồng kênh, bỏ qua commit."
+          else
+            git commit -m "chore: auto-sync and validate nvc live playlist [skip ci]"
+            git push
+          fi

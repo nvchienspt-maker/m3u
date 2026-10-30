@@ -1,0 +1,22 @@
+{
+  "name": "nvctivi-worker",
+  "version": "2.0.0",
+  "description": "NVC Tivi - Stream & M3U Playlist Manager for Vietnamese Television",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "crawl": "python scripts/nvc_crawler.py",
+    "check-live": "python scripts/nvc_crawler.py --verify-only",
+    "sync": "python scripts/update.py",
+    "typegen": "wrangler types",
+    "check": "wrangler deploy --dry-run && tsc --noEmit",
+    "test": "vitest run",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "latest",
+    "typescript": "latest",
+    "vitest": "latest",
+    "wrangler": "latest"
+  }
+}
