@@ -1,21 +1,21 @@
-#EXTM3U url-tvg="https://epgvn.vercel.app/epg.xml,https://epg.io.vn/epgc.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.io.vn/epgc.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-shift=0 m3uautoload=1
 #PLAYLIST: NVC Tivi - Truyền Hình Việt Nam Chuẩn Link Sống
 #AUTHOR: NVC Tivi Development Team
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv1hd.png" group-title="⭐️ VTV - Kênh Thiết Yếu",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist_360p.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv2hd.png" group-title="⭐️ VTV - Kênh Thiết Yếu",VTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/VTV2-HD-1080p/playlist.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/playlist_360p.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv3hd.png" group-title="⭐️ VTV - Kênh Thiết Yếu",VTV3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/playlist_360p.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv4hd.png" group-title="⭐️ VTV - Kênh Thiết Yếu",VTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -57,110 +57,10 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/playlist_360p.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/playlist_360p.m3u8
 
-#EXTINF:-1 tvg-id="vtv10" tvg-name="VTV10" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vtv10.png" group-title="⭐️ VTV - Kênh Thiết Yếu",VTV10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/free/master.m3u8
-
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-name="Vietnam Today" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/vietnamtoday.png" group-title="⭐️ VTV - Kênh Thiết Yếu",Vietnam Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
-
-#EXTINF:-1 tvg-id="htv1hd" tvg-name="HTV1 HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/htv1.png" group-title="📺 HTV - HTVC TP.HCM",HTV1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2 HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/htv2.png" group-title="📺 HTV - HTVC TP.HCM",HTV2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/htv3.png" group-title="📺 HTV - HTVC TP.HCM",HTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/HTV3-SD-720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7 HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/htv7.png" group-title="📺 HTV - HTVC TP.HCM",HTV7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9 HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/htv9.png" group-title="📺 HTV - HTVC TP.HCM",HTV9 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV Thể Thao" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/htvthethao.png" group-title="⚽ Thể Thao Đặc Sắc",HTV Thể Thao
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-name="HTVC Thuần Việt" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/htvcthuanviet.png" group-title="📺 HTV - HTVC TP.HCM",HTVC Thuần Việt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-name="HTVC Gia Đình" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/htvcgiadinh.png" group-title="📺 HTV - HTVC TP.HCM",HTVC Gia Đình
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htvcphimhd" tvg-name="HTVC Phim HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/htvcphim.png" group-title="📺 HTV - HTVC TP.HCM",HTVC Phim HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htvcphunuhd" tvg-name="HTVC Phụ Nữ" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/htvcphunu.png" group-title="📺 HTV - HTVC TP.HCM",HTVC Phụ Nữ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htvcdulichhd" tvg-name="HTVC Du Lịch" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/htvcdulich.png" group-title="📺 HTV - HTVC TP.HCM",HTVC Du Lịch
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htvccanhachd" tvg-name="HTVC Ca Nhạc" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/htvccanhac.png" group-title="📺 HTV - HTVC TP.HCM",HTVC Ca Nhạc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htvcplus" tvg-name="HTVC Plus" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/htvcplus.png" group-title="📺 HTV - HTVC TP.HCM",HTVC Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="thvl1hd" tvg-name="THVL1 HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/thvl1hd.png" group-title="🎬 Truyền Hình Vĩnh Long",THVL1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/THVL1-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="thvl2hd" tvg-name="THVL2 HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/thvl2hd.png" group-title="🎬 Truyền Hình Vĩnh Long",THVL2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="thvl3hd" tvg-name="THVL3 HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/thvl3hd.png" group-title="🎬 Truyền Hình Vĩnh Long",THVL3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=a7b34c2
-
-#EXTINF:-1 tvg-id="thvl4hd" tvg-name="THVL4 HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/thvl4hd.png" group-title="🎬 Truyền Hình Vĩnh Long",THVL4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=b128250
-
-#EXTINF:-1 tvg-id="antvhd" tvg-name="ANTV HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/antv-hd.png" group-title="📡 Kênh Quốc Gia & An Ninh",ANTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/ANTV-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/qpvn-hd.png" group-title="📡 Kênh Quốc Gia & An Ninh",QPVN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" tvg-name="SCTV2" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/sctv2hd.png" group-title="🎥 Truyền Hình Cáp SCTV",SCTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -247,25 +147,10 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv22/master.m3u8
 
-#EXTINF:-1 tvg-id="ongolf" tvg-name="ON GOLF" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/ongolf.png" group-title="⚽ Thể Thao Đặc Sắc",ON GOLF
+#EXTINF:-1 tvg-id="onechannel" tvg-name="ON E-Channel" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onechannel.png" group-title="🎬 Phim Truyện & Giải Trí",ON E-Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=7c1dc3a
-
-#EXTINF:-1 tvg-id="oncine" tvg-name="ON Cine" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/oncine.png" group-title="🎬 Phim Truyện & Giải Trí",ON Cine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=13fa5d2
-
-#EXTINF:-1 tvg-id="onmovies" tvg-name="On Movies" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onmovies.png" group-title="🎬 Phim Truyện & Giải Trí",On Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=6d5e19c
-
-#EXTINF:-1 tvg-id="onviegiaitri" tvg-name="ON Vie Giải Trí" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onviegiaitri.png" group-title="🎬 Phim Truyện & Giải Trí",ON Vie Giải Trí
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=5c975ba
+https://vietmitv.id.vn/c.php?k=2094832
 
 #EXTINF:-1 tvg-id="ontrending" tvg-name="ON TRENDING TV" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/ontrending.png" group-title="🎬 Phim Truyện & Giải Trí",ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -282,50 +167,20 @@ https://vietmitv.id.vn/c.php?k=a666bb8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=db10182
 
-#EXTINF:-1 tvg-id="onmusic" tvg-name="On Music" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onmusic.png" group-title="🎬 Phim Truyện & Giải Trí",On Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=2406e6c
-
-#EXTINF:-1 tvg-id="ono2tv" tvg-name="On O2TV" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/ono2tv.png" group-title="🎬 Phim Truyện & Giải Trí",On O2TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=212c7c8
-
 #EXTINF:-1 tvg-id="oninfotv" tvg-name="ON Info TV" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/oninfotv.png" group-title="🎬 Phim Truyện & Giải Trí",ON Info TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=bcb8ad9
-
-#EXTINF:-1 tvg-id="onbibi" tvg-name="On BiBi" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onbibi.png" group-title="👧 Thiếu Nhi & Gia Đình",On BiBi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=0009010
 
 #EXTINF:-1 tvg-id="onkids" tvg-name="On Kids" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onkids.png" group-title="👧 Thiếu Nhi & Gia Đình",On Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=facd9a9
 
-#EXTINF:-1 tvg-id="hanoi1" tvg-name="Hà Nội 1" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/hanoi1.png" group-title="🏛️ Truyền Hình Địa Phương",Hà Nội 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
-
 #EXTINF:-1 tvg-id="haiphong" tvg-name="Hải Phòng" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/haiphong.png" group-title="🏛️ Truyền Hình Địa Phương",Hải Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
-
-#EXTINF:-1 tvg-id="camau" tvg-name="Cà Mau" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/camau.png" group-title="🏛️ Truyền Hình Địa Phương",Cà Mau
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/CAMAU-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="binhthuan" tvg-name="Bình Thuận" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/binhthuan.png" group-title="🏛️ Truyền Hình Địa Phương",Bình Thuận
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tuyenquang" tvg-name="Tuyên Quang" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/tuyenquang.png" group-title="🏛️ Truyền Hình Địa Phương",Tuyên Quang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -341,11 +196,6 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="quangninh3" tvg-name="Quảng Ninh 3" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/quangninh3.png" group-title="🏛️ Truyền Hình Địa Phương",Quảng Ninh 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 
 #EXTINF:-1 tvg-id="bacninh" tvg-name="Bắc Ninh" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/bacninh.png" group-title="🏛️ Truyền Hình Địa Phương",Bắc Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -387,20 +237,10 @@ https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="tvbvietnam" tvg-name="TVB Việt Nam" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/tvb-vietnam.png" group-title="🌐 Kênh Quốc Tế",TVB Việt Nam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=24a932f1ddbed2be
-
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/kbsworld.png" group-title="🌐 Kênh Quốc Tế",KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=de55dd1c30425798
-
-#EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World Japan" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/nhk.png" group-title="🌐 Kênh Quốc Tế",NHK World Japan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=821cc0a76b9ae654
 
 #EXTINF:-1 tvg-id="nhk_premium" tvg-name="NHK Premium" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/nhk.png" group-title="🌐 Kênh Quốc Tế",NHK Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
