@@ -170,7 +170,7 @@ https://stream.dongthaptv.vn/live/dttv1.m3u8
 #EXTINF:-1 tvg-id="dongthap2" tvg-name="Đồng Tháp 2" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dongthap2.png" group-title="🏛️ Truyền Hình Địa Phương",Đồng Tháp 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream.dongthaptv.vn/live/dttv2.m3u8
+https://vietmitv.id.vn/c.php?k=8f9504a
 
 #EXTINF:-1 tvg-id="danang1" tvg-name="Đà Nẵng 1" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/danang1.png" group-title="🏛️ Truyền Hình Địa Phương",Đà Nẵng 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -425,12 +425,7 @@ https://vietmitv.id.vn/c.php?k=13fa5d2
 #EXTINF:-1 tvg-id="onstyle" tvg-name="ON Style TV" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onstyle.png" group-title="VTVcab",ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=212c7c8
-
-#EXTINF:-1 tvg-id="onkids" tvg-name="On Kids" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onkids.png" group-title="👧 Thiếu Nhi & Gia Đình",On Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=facd9a9
+https://vietmitv.id.vn/c.php?k=db10182
 
 #EXTINF:-1 tvg-id="onmusic" tvg-name="On Music" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onmusic.png" group-title="VTVcab",On Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
