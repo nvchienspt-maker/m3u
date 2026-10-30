@@ -3,7 +3,7 @@
     "name": "VTV1",
     "group": "⭐️ VTV - Kênh Thiết Yếu",
     "tvg_id": "vtv1hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv1hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv1hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8",
       "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist_360p.m3u8",
@@ -18,7 +18,7 @@
     "name": "VTV2",
     "group": "⭐️ VTV - Kênh Thiết Yếu",
     "tvg_id": "vtv2hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv2hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv2hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/VTV2-HD-1080p/playlist.m3u8",
       "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/playlist_360p.m3u8",
@@ -33,7 +33,7 @@
     "name": "VTV3",
     "group": "⭐️ VTV - Kênh Thiết Yếu",
     "tvg_id": "vtv3hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv3hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv3hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8",
       "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/playlist_360p.m3u8",
@@ -48,7 +48,7 @@
     "name": "VTV4",
     "group": "⭐️ VTV - Kênh Thiết Yếu",
     "tvg_id": "vtv4hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv4hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv4hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/VTV4-HD-1080p/playlist.m3u8",
       "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist_360p.m3u8",
@@ -63,7 +63,7 @@
     "name": "VTV5",
     "group": "⭐️ VTV - Kênh Thiết Yếu",
     "tvg_id": "vtv5hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv5hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv5hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/VTV5-HD-1080p/playlist.m3u8",
       "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist_360p.m3u8",
@@ -78,7 +78,7 @@
     "name": "VTV6",
     "group": "⭐️ VTV - Kênh Thiết Yếu",
     "tvg_id": "vtv6hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv6hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv6hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=b70d018"
     ],
@@ -91,7 +91,7 @@
     "name": "VTV7",
     "group": "⭐️ VTV - Kênh Thiết Yếu",
     "tvg_id": "vtv7hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv7hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv7hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/VTV7-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=7997b8a"
@@ -105,7 +105,7 @@
     "name": "VTV8",
     "group": "⭐️ VTV - Kênh Thiết Yếu",
     "tvg_id": "vtv8hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv8hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv8hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/VTV8-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=561dba2"
@@ -119,7 +119,7 @@
     "name": "VTV9",
     "group": "⭐️ VTV - Kênh Thiết Yếu",
     "tvg_id": "vtv9hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv9hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv9hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=74d6bd9"
@@ -133,7 +133,7 @@
     "name": "VTV10",
     "group": "⭐️ VTV - Kênh Thiết Yếu",
     "tvg_id": "vtv10",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv10.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv10.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=4802025"
     ],
@@ -146,7 +146,7 @@
     "name": "VTV5 Tây Nam Bộ",
     "group": "⭐️ VTV - Kênh Thiết Yếu",
     "tvg_id": "vtv5hdtnb",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv5hdtnb.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv5hdtnb.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=844f585"
     ],
@@ -159,7 +159,7 @@
     "name": "VTV5 Tây Nguyên",
     "group": "⭐️ VTV - Kênh Thiết Yếu",
     "tvg_id": "vtv5hdtn",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv5hdtn.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv5hdtn.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=f954fd8"
     ],
@@ -172,7 +172,7 @@
     "name": "VietNam Today",
     "group": "⭐️ VTV - Kênh Thiết Yếu",
     "tvg_id": "vietnamtoday",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vietnamtoday.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vietnamtoday.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=45a10e5"
     ],
@@ -185,7 +185,7 @@
     "name": "An Ninh TV",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "antv-hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/antv-hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/antv-hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/ANTV-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=983c968"
@@ -199,7 +199,7 @@
     "name": "Quốc Phòng Việt Nam",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "qpvn-hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/qpvn-hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/qpvn-hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=dbe430c"
     ],
@@ -212,7 +212,7 @@
     "name": "Vĩnh Long 1",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "thvl1hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thvl1hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/thvl1hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/THVL1-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=ddf8023"
@@ -226,7 +226,7 @@
     "name": "Vĩnh Long 2",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "thvl2hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thvl2hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/thvl2hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=05d10eb"
@@ -240,7 +240,7 @@
     "name": "Vĩnh Long 3",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "thvl3hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thvl3hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/thvl3hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/THVL3-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=a7b34c2"
@@ -254,7 +254,7 @@
     "name": "Vĩnh Long 4",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "thvl4hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thvl4hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/thvl4hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/THVL4-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=b128250"
@@ -268,7 +268,7 @@
     "name": "Vĩnh Long 5",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "thvl5hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thvl5hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/thvl5hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=a0e1fce"
     ],
@@ -281,7 +281,7 @@
     "name": "Tây Ninh",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "tayninhtv",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/tayninhtv.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/tayninhtv.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=bc10e1b"
     ],
@@ -294,7 +294,7 @@
     "name": "An Giang 1",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "angiang1",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/angiang1.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/angiang1.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=8d8de0d"
     ],
@@ -307,7 +307,7 @@
     "name": "An Giang 2",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "angiang2",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/angiang2.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/angiang2.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=8c4c713"
     ],
@@ -320,7 +320,7 @@
     "name": "Lâm Đồng",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "lamdong1",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/lamdong1.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/lamdong1.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=61fe539"
     ],
@@ -333,7 +333,7 @@
     "name": "Bình Thuận",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "lamdong2",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/lamdong2.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/lamdong2.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=6abef38"
     ],
@@ -346,7 +346,7 @@
     "name": "Cà Mau",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "camau",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/camau.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/camau.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/CAMAU-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=7da08de"
@@ -360,7 +360,7 @@
     "name": "Cần Thơ 1",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "cantho1",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cantho1.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/cantho1.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=db5ecd3"
     ],
@@ -373,7 +373,7 @@
     "name": "Cần Thơ 2",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "cantho2",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cantho2.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/cantho2.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=2670ae8"
     ],
@@ -386,7 +386,7 @@
     "name": "Cần Thơ 3",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "cantho3",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cantho3.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/cantho3.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=6a39fad"
     ],
@@ -399,7 +399,7 @@
     "name": "Đồng Nai 1",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "dongnai1",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dongnai1.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dongnai1.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=74f65ba"
     ],
@@ -412,7 +412,7 @@
     "name": "Đồng Nai 2",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "dongnai2",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dongnai2.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dongnai2.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=5f912b7"
     ],
@@ -425,7 +425,7 @@
     "name": "Đồng Nai 3",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "dnrtv3",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dnrtv3.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dnrtv3.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=9a063dd"
     ],
@@ -438,7 +438,7 @@
     "name": "Đồng Tháp 1",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "dongthap",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dongthap.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dongthap.png",
     "urls": [
       "https://stream.dongthaptv.vn/live/dttv1.m3u8",
       "https://vietmitv.id.vn/c.php?k=ef39d8c"
@@ -452,7 +452,7 @@
     "name": "Đồng Tháp 2",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "dongthap2",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dongthap2.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dongthap2.png",
     "urls": [
       "https://stream.dongthaptv.vn/live/dttv2.m3u8",
       "https://vietmitv.id.vn/c.php?k=8f9504a"
@@ -466,7 +466,7 @@
     "name": "Đà Nẵng 1",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "danang1",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/danang1.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/danang1.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=db1d242"
     ],
@@ -479,7 +479,7 @@
     "name": "Đà Nẵng 2",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "danang2",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/danang2.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/danang2.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=f74e4b2"
     ],
@@ -492,7 +492,7 @@
     "name": "Đắk Lắk",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "daklak",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/daklak.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/daklak.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=44808f8"
     ],
@@ -505,7 +505,7 @@
     "name": "Thừa Thiên Huế",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "hue",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hue.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hue.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=4f54339"
     ],
@@ -518,7 +518,7 @@
     "name": "Khánh Hòa",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "khanhhoa",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/khanhhoa.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/khanhhoa.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=a1471ee"
     ],
@@ -531,7 +531,7 @@
     "name": "Khánh Hòa 1",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "khanhhoa1",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/khanhhoa1.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/khanhhoa1.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=6b615f4"
     ],
@@ -544,7 +544,7 @@
     "name": "Quảng Ngãi",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "quangngai",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/quangngai.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/quangngai.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=4d647fa"
     ],
@@ -557,7 +557,7 @@
     "name": "Quảng Trị",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "quangtri",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/quangtri.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/quangtri.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=2201b53"
     ],
@@ -570,7 +570,7 @@
     "name": "Hà Nội 1",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "hanoi1",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hanoi1.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hanoi1.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=c8e8055"
     ],
@@ -583,7 +583,7 @@
     "name": "Hà Nội 2",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "hanoi2",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hanoi2.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hanoi2.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=c5bca86"
     ],
@@ -596,7 +596,7 @@
     "name": "Bắc Ninh",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "bacninh",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/bacninh.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/bacninh.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=78e5139"
     ],
@@ -609,7 +609,7 @@
     "name": "Cao Bằng",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "caobang",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/caobang.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/caobang.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=324942d"
     ],
@@ -622,7 +622,7 @@
     "name": "Điện Biên",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "dienbien",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dienbien.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dienbien.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=d1c588d"
     ],
@@ -635,7 +635,7 @@
     "name": "Hà Tĩnh",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "hatinh",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hatinh.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hatinh.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=7c00981"
     ],
@@ -648,7 +648,7 @@
     "name": "Hải Phòng",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "haiphong",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/haiphong.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/haiphong.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=0638cb0"
     ],
@@ -661,7 +661,7 @@
     "name": "Hải Phòng 3",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "haiphongplus",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/haiphongplus.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/haiphongplus.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=1bc562a"
     ],
@@ -674,7 +674,7 @@
     "name": "Hưng Yên",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "hungyen",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hungyen.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hungyen.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=9858cf6"
     ],
@@ -687,7 +687,7 @@
     "name": "Lai Châu",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "laichau",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/laichau.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/laichau.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=0c2e443"
     ],
@@ -700,7 +700,7 @@
     "name": "Lạng Sơn",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "langson",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/langson.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/langson.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=275cbb6"
     ],
@@ -713,7 +713,7 @@
     "name": "Lào Cai",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "laocai",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/laocai.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/laocai.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=bf2f8d5"
     ],
@@ -726,7 +726,7 @@
     "name": "Nghệ An",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "nghean",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/nghean.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/nghean.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=1e3801f"
     ],
@@ -739,7 +739,7 @@
     "name": "Ninh Bình",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "ninhbinh",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/ninhbinh.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/ninhbinh.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=20c1988"
     ],
@@ -752,7 +752,7 @@
     "name": "Phú Thọ",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "phutho",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/phutho.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/phutho.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=29b9382"
     ],
@@ -765,7 +765,7 @@
     "name": "Quảng Ninh 1",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "quangninh1",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/quangninh1.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/quangninh1.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=5e6789d"
     ],
@@ -778,7 +778,7 @@
     "name": "Quảng Ninh 3",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "quangninh3",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/quangninh3.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/quangninh3.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=b950f46"
     ],
@@ -791,7 +791,7 @@
     "name": "Sơn La",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "sonla",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sonla.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sonla.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=6f5e02d"
     ],
@@ -804,7 +804,7 @@
     "name": "Thái Nguyên",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "thainguyen",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thainguyen.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/thainguyen.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=d7e11ac"
     ],
@@ -817,7 +817,7 @@
     "name": "Thanh Hóa",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "thanhhoa",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thanhhoa.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/thanhhoa.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=0e336de"
     ],
@@ -830,7 +830,7 @@
     "name": "Tuyên Quang",
     "group": "🏛️ Truyền Hình Địa Phương",
     "tvg_id": "tuyenquang",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/tuyenquang.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/tuyenquang.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=7ad021d"
     ],
@@ -843,7 +843,7 @@
     "name": "HTV1",
     "group": "HTV",
     "tvg_id": "htv1",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htv1.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htv1.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=d68c81a"
@@ -857,7 +857,7 @@
     "name": "HTV2",
     "group": "HTV",
     "tvg_id": "htv2hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htv2hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htv2hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=be5d3ca"
@@ -871,7 +871,7 @@
     "name": "HTV3",
     "group": "HTV",
     "tvg_id": "htv3",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htv3.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htv3.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/HTV3-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=0e7df9a"
@@ -885,7 +885,7 @@
     "name": "HTV Key",
     "group": "HTV",
     "tvg_id": "htvkey",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvkey.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htvkey.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=11dc023"
     ],
@@ -898,7 +898,7 @@
     "name": "HTV7",
     "group": "HTV",
     "tvg_id": "htv7hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htv7hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htv7hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=2a99d18"
@@ -912,7 +912,7 @@
     "name": "HTV9",
     "group": "HTV",
     "tvg_id": "htv9hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htv9hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htv9hd.png",
     "urls": [
       "https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8",
       "https://vietmitv.id.vn/c.php?k=bfda8fd"
@@ -926,7 +926,7 @@
     "name": "HTV Thể Thao",
     "group": "HTV",
     "tvg_id": "htvthethaohd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvthethaohd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htvthethaohd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=32d75b2"
     ],
@@ -939,7 +939,7 @@
     "name": "HTVC Thuần Việt",
     "group": "HTV",
     "tvg_id": "htvcthuanviet",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvcthuanviet.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htvcthuanviet.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=bc5919a"
     ],
@@ -952,7 +952,7 @@
     "name": "HTVC Plus",
     "group": "HTV",
     "tvg_id": "htvcplushd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvcplushd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htvcplushd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=25b9641"
     ],
@@ -965,7 +965,7 @@
     "name": "HTVC Du Lịch",
     "group": "HTV",
     "tvg_id": "htvcdulichhd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvcdulichhd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htvcdulichhd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=37b2310"
     ],
@@ -978,7 +978,7 @@
     "name": "HTVC Phim",
     "group": "HTV",
     "tvg_id": "htvcphimhd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvcphimhd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htvcphimhd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=c839be0"
     ],
@@ -991,7 +991,7 @@
     "name": "HTVC Gia Đình",
     "group": "HTV",
     "tvg_id": "htvcgiadinhhd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvcgiadinhhd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htvcgiadinhhd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=bc5a5e7"
     ],
@@ -1004,7 +1004,7 @@
     "name": "HTVC Phụ Nữ",
     "group": "HTV",
     "tvg_id": "htvcphunuhd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvcphunuhd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htvcphunuhd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=fde41e1"
     ],
@@ -1017,7 +1017,7 @@
     "name": "ON Vie Giải Trí",
     "group": "VTVcab",
     "tvg_id": "onviegiaitri",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onviegiaitri.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onviegiaitri.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=5c975ba"
     ],
@@ -1030,7 +1030,7 @@
     "name": "ON Phim Việt",
     "group": "VTVcab",
     "tvg_id": "onphimviet",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onphimviet.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onphimviet.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=0fa218e"
     ],
@@ -1043,7 +1043,7 @@
     "name": "On Movies",
     "group": "VTVcab",
     "tvg_id": "onmovies",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onmovies.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onmovies.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=6d5e19c"
     ],
@@ -1056,7 +1056,7 @@
     "name": "ON E- Channel",
     "group": "VTVcab",
     "tvg_id": "onechannel",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onechannel.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onechannel.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=2094832"
     ],
@@ -1069,7 +1069,7 @@
     "name": "On O2TV",
     "group": "VTVcab",
     "tvg_id": "ono2tv",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/ono2tv.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/ono2tv.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=212c7c8"
     ],
@@ -1082,7 +1082,7 @@
     "name": "On BiBi",
     "group": "VTVcab",
     "tvg_id": "onbibi",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onbibi.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onbibi.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=0009010"
     ],
@@ -1095,7 +1095,7 @@
     "name": "ON Info TV",
     "group": "VTVcab",
     "tvg_id": "oninfotv",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/oninfotv.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/oninfotv.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=bcb8ad9"
     ],
@@ -1108,7 +1108,7 @@
     "name": "ON Cine",
     "group": "VTVcab",
     "tvg_id": "oncine",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/oncine.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/oncine.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=13fa5d2"
     ],
@@ -1121,7 +1121,7 @@
     "name": "ON Style TV",
     "group": "VTVcab",
     "tvg_id": "onstyle",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onstyle.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onstyle.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=db10182"
     ],
@@ -1134,7 +1134,7 @@
     "name": "On Music",
     "group": "VTVcab",
     "tvg_id": "onmusic",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onmusic.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onmusic.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=2406e6c"
     ],
@@ -1147,7 +1147,7 @@
     "name": "ON TRENDING TV",
     "group": "VTVcab",
     "tvg_id": "ontrending",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/ontrending.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/ontrending.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=93f5539"
     ],
@@ -1160,7 +1160,7 @@
     "name": "ON Vie Dramas",
     "group": "VTVcab",
     "tvg_id": "onviedramas",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onviedramas.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onviedramas.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=2a92be7"
     ],
@@ -1173,7 +1173,7 @@
     "name": "ON V Family",
     "group": "VTVcab",
     "tvg_id": "onvfamily",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onvfamily.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onvfamily.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=a666bb8"
     ],
@@ -1186,7 +1186,7 @@
     "name": "On Kids",
     "group": "VTVcab",
     "tvg_id": "onkids",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onkids.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onkids.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=facd9a9"
     ],
@@ -1199,7 +1199,7 @@
     "name": "On Life",
     "group": "VTVcab",
     "tvg_id": "onlife",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onlife.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onlife.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=a4d402a"
     ],
@@ -1212,7 +1212,7 @@
     "name": "ON SPORTS",
     "group": "VTVcab",
     "tvg_id": "onsports",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onsports.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onsports.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=48a21fd"
     ],
@@ -1225,7 +1225,7 @@
     "name": "ON SPORTS+",
     "group": "VTVcab",
     "tvg_id": "onsportsplus",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onsportsplus.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onsportsplus.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=be48ef9"
     ],
@@ -1238,7 +1238,7 @@
     "name": "ON FOOTBALL",
     "group": "VTVcab",
     "tvg_id": "onfootball",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onfootball.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onfootball.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=d53ed82"
     ],
@@ -1251,7 +1251,7 @@
     "name": "ON SPORTS NEWS",
     "group": "VTVcab",
     "tvg_id": "onsportsnews",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onsportsnews.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onsportsnews.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=aac3295"
     ],
@@ -1264,7 +1264,7 @@
     "name": "ON GOLF",
     "group": "VTVcab",
     "tvg_id": "ongolf",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/ongolf.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/ongolf.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=7c1dc3a"
     ],
@@ -1277,7 +1277,7 @@
     "name": "SCTV1",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv1hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv1hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv1hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=82e5f0b"
     ],
@@ -1290,7 +1290,7 @@
     "name": "SCTV2",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv2hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv2hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv2hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=ed84851"
     ],
@@ -1303,7 +1303,7 @@
     "name": "SCTV3",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv3hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv3hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv3hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=eaa9eb5"
     ],
@@ -1316,7 +1316,7 @@
     "name": "SCTV4",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv4hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv4hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv4hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=4a1be6d"
     ],
@@ -1329,7 +1329,7 @@
     "name": "SCTV5",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv5hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv5hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv5hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=6dddb0c"
     ],
@@ -1342,7 +1342,7 @@
     "name": "SCTV6",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv6hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv6hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv6hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=471875c"
     ],
@@ -1355,7 +1355,7 @@
     "name": "SCTV7",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv7hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv7hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv7hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=fc923bf"
     ],
@@ -1368,7 +1368,7 @@
     "name": "SCTV8",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv8hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv8hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv8hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=e1d0f56"
     ],
@@ -1381,7 +1381,7 @@
     "name": "SCTV9",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv9",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv9.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv9.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=ebfd0fe"
     ],
@@ -1394,7 +1394,7 @@
     "name": "SCTV10",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv10hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv10hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv10hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=b451473"
     ],
@@ -1407,7 +1407,7 @@
     "name": "SCTV11",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv11hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv11hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv11hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=409491c"
     ],
@@ -1420,7 +1420,7 @@
     "name": "SCTV12",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv12hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv12hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv12hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=126ec8d"
     ],
@@ -1433,7 +1433,7 @@
     "name": "SCTV13",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv13hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv13hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv13hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=b92a0a7"
     ],
@@ -1446,7 +1446,7 @@
     "name": "SCTV14",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv14hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv14hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv14hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=04ffacb"
     ],
@@ -1459,7 +1459,7 @@
     "name": "SCTV15",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv15",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv15.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv15.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=a07d1b6"
     ],
@@ -1472,7 +1472,7 @@
     "name": "SCTV16",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv16hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv16hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv16hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=d64f3bc"
     ],
@@ -1485,7 +1485,7 @@
     "name": "SCTV17",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv17",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv17.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv17.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=227db01"
     ],
@@ -1498,7 +1498,7 @@
     "name": "SCTV18",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv18hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv18hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv18hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=96c49c8"
     ],
@@ -1511,7 +1511,7 @@
     "name": "SCTV19",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv19hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv19hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv19hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=fed9379"
     ],
@@ -1524,7 +1524,7 @@
     "name": "SCTV20",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv20hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv20hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv20hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=834c06b"
     ],
@@ -1537,7 +1537,7 @@
     "name": "SCTV21 - Việt Nam Ký Ức",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv21hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv21hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv21hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=e04e88a"
     ],
@@ -1550,7 +1550,7 @@
     "name": "SCTV22",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctv22hd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv22hd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv22hd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=83434df"
     ],
@@ -1563,7 +1563,7 @@
     "name": "SCTV Phim Tổng Hợp",
     "group": "🎥 Truyền Hình Cáp SCTV",
     "tvg_id": "sctvhdpth",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctvhdpth.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctvhdpth.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=be66646"
     ],
@@ -1576,7 +1576,7 @@
     "name": "Box Movie 1",
     "group": "🎬 Phim Truyện & Âm Nhạc",
     "tvg_id": "boxmovie1",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/boxmovie1.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/boxmovie1.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=bacd3fe1bac3a7b6"
     ],
@@ -1589,7 +1589,7 @@
     "name": "Hollywood Classics",
     "group": "🎬 Phim Truyện & Âm Nhạc",
     "tvg_id": "hollywoodclassics",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hollywoodclassics.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hollywoodclassics.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=f4cb1aad7234519b"
     ],
@@ -1602,7 +1602,7 @@
     "name": "Box Hits",
     "group": "🎬 Phim Truyện & Âm Nhạc",
     "tvg_id": "boxhits",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/boxhits.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/boxhits.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=0bef0225e3257223"
     ],
@@ -1615,7 +1615,7 @@
     "name": "Music Box",
     "group": "🎬 Phim Truyện & Âm Nhạc",
     "tvg_id": "musicbox",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/musicbox.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/musicbox.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=66cd51bd9f826250"
     ],
@@ -1628,7 +1628,7 @@
     "name": "Woman",
     "group": "🎬 Phim Truyện & Âm Nhạc",
     "tvg_id": "woman",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/woman.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/woman.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=904298f83bf8f8fc"
     ],
@@ -1641,7 +1641,7 @@
     "name": "TVB Việt Nam",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "tvb-vietnam",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/tvb-vietnam.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/tvb-vietnam.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=24a932f1ddbed2be"
     ],
@@ -1654,7 +1654,7 @@
     "name": "Warner TV",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "warnertv",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/warnertv.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/warnertv.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=8e2e6b0ad094042e"
     ],
@@ -1667,7 +1667,7 @@
     "name": "HBO",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "hbo",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hbo.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hbo.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=4644b6539c2b01ef"
     ],
@@ -1680,7 +1680,7 @@
     "name": "CinemaWorld",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "cinemaworld",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cinemaworld.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/cinemaworld.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=86fa514c8c5a9a2d"
     ],
@@ -1693,7 +1693,7 @@
     "name": "AXN",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "axn",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/axn.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/axn.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=5ca63a0b8c7f8a19"
     ],
@@ -1706,7 +1706,7 @@
     "name": "Cinemax",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "cinemax",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cinemax.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/cinemax.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=7cec2562df0b32c5"
     ],
@@ -1719,7 +1719,7 @@
     "name": "Cartoon Network",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "cartoonnetwork",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cartoonnetwork.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/cartoonnetwork.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=2740d958315d8330"
     ],
@@ -1732,7 +1732,7 @@
     "name": "Cartoonito",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "cartoonito",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cartoonito.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/cartoonito.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=949e554e5eabad4e"
     ],
@@ -1745,7 +1745,7 @@
     "name": "BBC Cbeebies",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "bbc-cbeebies",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/bbc-cbeebies.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/bbc-cbeebies.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=2048caba5ae6307d"
     ],
@@ -1758,7 +1758,7 @@
     "name": "Dmax",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "dmax",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dmax.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dmax.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=91fd7ec2976e12bc"
     ],
@@ -1771,7 +1771,7 @@
     "name": "Dreamworks",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "dreamworks",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dreamworks.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dreamworks.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=4f8e4b1df326bb91"
     ],
@@ -1784,7 +1784,7 @@
     "name": "Davinci",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "davinci",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/davinci.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/davinci.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=4c391a84c9633ef2"
     ],
@@ -1797,7 +1797,7 @@
     "name": "Kix",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "kix",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/kix.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/kix.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=efa3a413e6c10a76"
     ],
@@ -1810,7 +1810,7 @@
     "name": "Animal-planet",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "animal-planet",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/animal-planet.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/animal-planet.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=a1c43ecee3142bde"
     ],
@@ -1823,7 +1823,7 @@
     "name": "Outdoor HD",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "outdoorhd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/outdoorhd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/outdoorhd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=97b8b63a34618b8a"
     ],
@@ -1836,7 +1836,7 @@
     "name": "Channel News Asia",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "channelnewsasia",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/channelnewsasia.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/channelnewsasia.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=e47519e6c738f235"
     ],
@@ -1849,7 +1849,7 @@
     "name": "TV5",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "tv5monde",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/tv5monde.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/tv5monde.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=fd70eaf55b8ad286"
     ],
@@ -1862,7 +1862,7 @@
     "name": "Discovery",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "discovery",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/discovery.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/discovery.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=567304155a4cc5a6"
     ],
@@ -1875,7 +1875,7 @@
     "name": "Travel Living Channel",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "tlc",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/tlc.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/tlc.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=b67394734333293f"
     ],
@@ -1888,7 +1888,7 @@
     "name": "Discovery Asia",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "discoveryasia",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/discoveryasia.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/discoveryasia.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=b693e9402a6c954e"
     ],
@@ -1901,7 +1901,7 @@
     "name": "Fashion TV",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "fashiontv",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/fashiontv.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/fashiontv.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=e2274e6cafda91a9"
     ],
@@ -1914,7 +1914,7 @@
     "name": "Asia Food Network HD",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "afnhd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/afnhd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/afnhd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=015d8363a37e0a25"
     ],
@@ -1927,7 +1927,7 @@
     "name": "HGTV",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "hgtv",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hgtv.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hgtv.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=78d0ce6ae5ebab98"
     ],
@@ -1940,7 +1940,7 @@
     "name": "KBS World",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "kbsworld",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/kbsworld.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/kbsworld.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=de55dd1c30425798"
     ],
@@ -1953,7 +1953,7 @@
     "name": "NHK World Japan",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "nhkworld",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/nhkworld.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/nhkworld.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=821cc0a76b9ae654"
     ],
@@ -1966,7 +1966,7 @@
     "name": "NHK Premium",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "nhk_premium",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/nhk_premium.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/nhk_premium.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=3714b1cfca8cac1f"
     ],
@@ -1979,7 +1979,7 @@
     "name": "France 24",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "france24",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/france24.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/france24.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=61ba002639c4e0c8"
     ],
@@ -1992,7 +1992,7 @@
     "name": "CNBC SD",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "cnbcsd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cnbcsd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/cnbcsd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=878728aea2f68799"
     ],
@@ -2005,7 +2005,7 @@
     "name": "History HD",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "historyhd",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/historyhd.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/historyhd.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=305d4427559fc994"
     ],
@@ -2018,7 +2018,7 @@
     "name": "DW - Deutsche Welle",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "dw",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dw.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dw.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=0c33f1bb2e61a86e"
     ],
@@ -2031,7 +2031,7 @@
     "name": "CNN",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "cnn",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cnn.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/cnn.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=eba2439a51a6257a"
     ],
@@ -2044,7 +2044,7 @@
     "name": "Arirang",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "arirang",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/arirang.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/arirang.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=870c56b7cc5a7762"
     ],
@@ -2057,7 +2057,7 @@
     "name": "Bloomberg",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "bloomberg",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/bloomberg.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/bloomberg.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=6c17be5fefd3d129"
     ],
@@ -2070,7 +2070,7 @@
     "name": "BBC Lifestyle",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "bbclifestyle",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/bbclifestyle.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/bbclifestyle.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=6e9d9000aa6e2e73"
     ],
@@ -2083,7 +2083,7 @@
     "name": "BBC World News",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "bbcnews",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/bbcnews.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/bbcnews.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=edd17cbf576e0ecd"
     ],
@@ -2096,7 +2096,7 @@
     "name": "BBC Earth",
     "group": "🌍 Kênh Quốc Tế Đặc Sắc",
     "tvg_id": "bbcearth",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/bbcearth.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/bbcearth.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=384ccba07667b439"
     ],
@@ -2109,7 +2109,7 @@
     "name": "CCTV1",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv1",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv1.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv1.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=712f28e"
     ],
@@ -2122,7 +2122,7 @@
     "name": "CCTV2",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv2",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv2.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv2.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=10c332e"
     ],
@@ -2135,7 +2135,7 @@
     "name": "CCTV3",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv3",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv3.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv3.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=9a161b7"
     ],
@@ -2148,7 +2148,7 @@
     "name": "CCTV4",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv4",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv4.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv4.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=bc3a732"
     ],
@@ -2161,7 +2161,7 @@
     "name": "CCTV5",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv5",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv5.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv5.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=40d6b44"
     ],
@@ -2174,7 +2174,7 @@
     "name": "CCTV5+",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv5plus",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv5plus.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv5plus.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=a921acd"
     ],
@@ -2187,7 +2187,7 @@
     "name": "CCTV6",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv6",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv6.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv6.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=e35e8f9"
     ],
@@ -2200,7 +2200,7 @@
     "name": "CCTV7",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv7",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv7.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv7.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=004ed2b"
     ],
@@ -2213,7 +2213,7 @@
     "name": "CCTV8",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv8",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv8.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv8.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=3667033"
     ],
@@ -2226,7 +2226,7 @@
     "name": "CCTV9",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv9",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv9.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv9.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=f448575"
     ],
@@ -2239,7 +2239,7 @@
     "name": "CCTV10",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv10",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv10.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv10.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=d8c22cf"
     ],
@@ -2252,7 +2252,7 @@
     "name": "CCTV11",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv11",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv11.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv11.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=0858a1c"
     ],
@@ -2265,7 +2265,7 @@
     "name": "CCTV12",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv12",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv12.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv12.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=e49e932"
     ],
@@ -2278,7 +2278,7 @@
     "name": "CCTV13",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv13",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv13.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv13.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=2e5409a"
     ],
@@ -2291,7 +2291,7 @@
     "name": "CCTV14",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv14",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv14.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv14.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=94d1bf4"
     ],
@@ -2304,7 +2304,7 @@
     "name": "CCTV15",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv15",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv15.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv15.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=849531d"
     ],
@@ -2317,7 +2317,7 @@
     "name": "CCTV16",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv16",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv16.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv16.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=14c5975"
     ],
@@ -2330,7 +2330,7 @@
     "name": "CCTV17",
     "group": "🇨🇳 Kênh Truyền Hình CCTV",
     "tvg_id": "enc-cctv17",
-    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv17.png",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv17.png",
     "urls": [
       "https://vietmitv.id.vn/c.php?k=62ef208"
     ],
