@@ -43,44 +43,53 @@ flowchart TD
 
 ---
 
-## 📋 Danh Mục Kênh Chuẩn Hoá Trên NVC Tivi
+## 📋 Danh Mục 6 Nhóm Kênh Chuẩn Hoá
 
-Hệ thống được sắp xếp khoa học thành các nhóm kênh phục vụ mọi nhu cầu giải trí của gia đình:
+Tất cả các file M3U (bao gồm cả 3 file nguồn riêng và file master) đều được sắp xếp theo đúng thứ tự 6 nhóm chuẩn:
 
-| STT | Nhóm Kênh | Số Kênh Hoạt Động | Các Kênh Tiêu Biểu |
-| :---: | :--- | :---: | :--- |
-| **1** | **⭐️ VTV - Kênh Thiết Yếu** | **13** | VTV1 HD (1080p), VTV2 HD (1080p), VTV3 HD (1080p), VTV4, VTV5, VTV5 Tây Nam Bộ, VTV5 Tây Nguyên, VTV Cần Thơ, VTV7, VTV8, VTV9, VTV10, Vietnam Today |
-| **2** | **📺 HTV - HTVC TP.HCM** | **12** | HTV1 HD, HTV2 HD, HTV3, HTV7 HD, HTV9 HD, HTVC Thuần Việt, HTVC Gia Đình, HTVC Phim HD, HTVC Phụ Nữ, HTVC Du Lịch, HTVC Ca Nhạc, HTVC Plus |
-| **3** | **🎬 Truyền Hình Vĩnh Long** | **4** | THVL1 HD (1080p), THVL2 HD (1080p), THVL3 HD, THVL4 HD |
-| **4** | **📡 Kênh Quốc Gia & An Ninh** | **2** | ANTV HD (Truyền hình Công an ND 1080p), QPVN HD (Truyền hình Quốc phòng VN) |
-| **5** | **🎥 Truyền Hình Cáp SCTV** | **15** | SCTV2, SCTV3, SCTV4, SCTV6, SCTV7, SCTV9, SCTV11, SCTV12, SCTV13, SCTV14, SCTV16, SCTV18, SCTV19, SCTV20, SCTV22 |
-| **6** | **⚽ Thể Thao Đặc Sắc** | **4** | SCTV15 (Thể Thao), SCTV17 (Thể Thao), HTV Thể Thao HD, ON GOLF |
-| **7** | **🎬 Phim Truyện & Giải Trí** | **7** | ON Cine, On Movies, ON Vie Giải Trí, ON Vie Dramas, On Music, On O2TV, ON Info TV |
-| **8** | **👧 Thiếu Nhi & Gia Đình** | **1** | On Kids |
-| **9** | **🏛️ Truyền Hình Địa Phương** | **16** | Hà Nội 1, Hải Phòng, Cà Mau, Bình Thuận, Tuyên Quang, Thái Nguyên, Quảng Ninh 1, Quảng Ninh 3, Bắc Ninh, Phú Thọ, Sơn La, Điện Biên, Hưng Yên, Ninh Bình, Nghệ An, Tây Ninh... |
-| **10** | **🌐 Kênh Quốc Tế Chọn Lọc** | **8** | NHK World Japan, NHK Premium, France 24, DW - Deutsche Welle, Channel News Asia, TV5 Monde, Arirang TV HD, VBS TV HD |
+| STT | Nhóm Kênh | Nội Dung Kênh Tiêu Biểu |
+| :---: | :--- | :--- |
+| **1** | **VTV** | VTV1 HD, VTV2 HD, VTV3 HD, VTV4, VTV5, VTV5 Tây Nam Bộ, VTV5 Tây Nguyên, VTV Cần Thơ, VTV7, VTV8, VTV9, Vietnam Today |
+| **2** | **VTVCab** | ON Sports, ON Football, ON Golf, ON Cine, On Movies, ON Vie Giải Trí, ON Phim Việt, ON Kids, ON Bibi, VTVPrime... |
+| **3** | **HTV** | HTV1, HTV2 HD, HTV3, HTV7 HD, HTV9 HD, HTV Thể Thao, HTVC Thuần Việt, HTVC Gia Đình, HTVC Phim HD, HTVC Du Lịch, HTVC Ca Nhạc |
+| **4** | **SCTV** | SCTV Phim Tổng Hợp, SCTV1, SCTV2, SCTV3, SCTV4, SCTV7, SCTV9, SCTV12, SCTV13, SCTV14, SCTV15, SCTV17, SCTV 4K... |
+| **5** | **Quốc Tế** | HBO, Cinemax, CinemaWorld, Warner TV, AXN, Cartoon Network, Cartoonito, DreamWorks, Discovery, TLC, Animal Planet, BBC, CNN, CNBC, NHK World, KBS World... |
+| **6** | **Địa Phương** | Vĩnh Long (THVL1-THVL4), Hà Nội (H1, H2), Hải Phòng, Đà Nẵng, Cần Thơ, Đồng Nai, Đồng Tháp, An Giang, Lâm Đồng, ANTV, QPVN... |
 
 ---
 
-## 🚀 Hướng Dẫn Sử Dụng
+## 🚀 Hướng Dẫn Sử Dụng & Đường Dẫn M3U Trực Tiếp
 
 ### 1. Dành cho người dùng cuối (App NVC Tivi, TiviMate, OTT Navigator, VLC)
 
 Bạn có thể dán trực tiếp đường dẫn M3U sau vào bất kỳ ứng dụng xem IPTV nào:
 
-* **Danh sách phát chuẩn trực tiếp (Tối ưu tốc độ tải):**
+* **File Tổng Hợp Master (Toàn diện nhất, gộp và lọc từ cả 3 nguồn):**
   ```text
-  https://raw.githubusercontent.com/<your-username>/nvctivi/main/nvctivi.m3u
+  https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/nvctivi.m3u
+  ```
+
+* **File Nguồn 1 (Giải mã từ VXM vxm.enc):**
+  ```text
+  https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/nvctivi_source1.m3u
+  ```
+
+* **File Nguồn 2 (Từ IPTV-Auto all.m3u):**
+  ```text
+  https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/nvctivi_source2.m3u
+  ```
+
+* **File Nguồn 3 (Từ VMTTV vmttv):**
+  ```text
+  https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/nvctivi_source3.m3u
   ```
 
 * **Danh sách phát qua Cloudflare Worker (Có Proxy & tự động làm mới):**
   ```text
   https://<your-worker-subdomain>.workers.dev/playlist.m3u
-  ```
-
-* **Tùy chọn lọc theo nhóm kênh:**
-  ```text
-  https://<your-worker-subdomain>.workers.dev/playlist.m3u?group=VTV
+  https://<your-worker-subdomain>.workers.dev/source1.m3u
+  https://<your-worker-subdomain>.workers.dev/source2.m3u
+  https://<your-worker-subdomain>.workers.dev/source3.m3u
   ```
 
 ---

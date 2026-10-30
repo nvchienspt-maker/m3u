@@ -168,13 +168,19 @@ async function readLimitedText(response: Response): Promise<string> {
 // Fallback embedded playlist if UPSTREAM_PLAYLIST_URL is not set
 const DEFAULT_UPSTREAM_PLAYLIST = "https://raw.githubusercontent.com/nvctivi/m3u/main/nvctivi.m3u";
 
-async function fetchSource(requestUrl: URL, env: SecretEnv): Promise<{ text: string; cache: "HIT" | "MISS" }> {
+async function fetchSource(requestUrl: URL, env: SecretEnv, sourceFile = "nvctivi.m3u"): Promise<{ text: string; cache: "HIT" | "MISS" }> {
   const cache = caches.default;
-  const cacheKey = new Request(`${requestUrl.origin}/__nvctivi_source_cache_v2`, { method: "GET" });
+  const cacheKey = new Request(`${requestUrl.origin}/__nvctivi_source_cache_${sourceFile}`, { method: "GET" });
   const cached = await cache.match(cacheKey);
   if (cached) return { text: await readLimitedText(cached), cache: "HIT" };
 
-  const targetUrl = env.UPSTREAM_PLAYLIST_URL || DEFAULT_UPSTREAM_PLAYLIST;
+  let targetUrl = env.UPSTREAM_PLAYLIST_URL || DEFAULT_UPSTREAM_PLAYLIST;
+  if (sourceFile !== "nvctivi.m3u") {
+    targetUrl = targetUrl.replace(/nvctivi\.m3u$/, sourceFile);
+    if (!targetUrl.endsWith(sourceFile)) {
+      targetUrl = `https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/${sourceFile}`;
+    }
+  }
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), SOURCE_TIMEOUT_MS);
   let upstream: Response;
@@ -311,15 +317,15 @@ async function resolveChannel(request: Request, requestUrl: URL, env: SecretEnv)
  * - ?group=VTV (lọc theo nhóm)
  * - ?proxy=1 (chuyển đổi stream URL qua worker proxy)
  */
-async function servePlaylist(requestUrl: URL, env: SecretEnv): Promise<Response> {
-  const source = await fetchSource(requestUrl, env);
+async function servePlaylist(requestUrl: URL, env: SecretEnv, sourceFile = "nvctivi.m3u"): Promise<Response> {
+  const source = await fetchSource(requestUrl, env, sourceFile);
   const filterGroup = requestUrl.searchParams.get("group")?.trim().toLowerCase();
   const useProxy = requestUrl.searchParams.get("proxy") === "1";
 
   const blocks = parseBlocks(source.text);
   const outputLines: string[] = [
     '#EXTM3U url-tvg="https://epgvn.vercel.app/epg.xml,https://epg.io.vn/epgc.xml" tvg-shift=0 m3uautoload=1',
-    '#PLAYLIST: NVC Tivi - Truyền Hình Việt Nam Chuẩn Link Sống',
+    `#PLAYLIST: NVC Tivi - ${sourceFile.replace('.m3u', '').toUpperCase()}`,
     '#APP: NVC Tivi v2.0',
     ''
   ];
@@ -354,7 +360,7 @@ async function servePlaylist(requestUrl: URL, env: SecretEnv): Promise<Response>
       "cache-control": `public, max-age=${SOURCE_CACHE_SECONDS}`,
       "access-control-allow-origin": "*",
       "x-nvctivi-cache": source.cache,
-      "content-disposition": 'inline; filename="nvctivi.m3u"',
+      "content-disposition": `inline; filename="${sourceFile}"`,
     },
   });
 }
@@ -437,6 +443,9 @@ async function health(requestUrl: URL, env: SecretEnv): Promise<Response> {
     endpoints: {
       m3u: `${requestUrl.origin}/playlist.m3u`,
       m3u_proxy: `${requestUrl.origin}/playlist.m3u?proxy=1`,
+      source1: `${requestUrl.origin}/source1.m3u`,
+      source2: `${requestUrl.origin}/source2.m3u`,
+      source3: `${requestUrl.origin}/source3.m3u`,
       search: `${requestUrl.origin}/search?q=vtv1`,
       groups: `${requestUrl.origin}/groups`,
       channel: `${requestUrl.origin}/channel?name=VTV1`,
@@ -472,8 +481,13 @@ export default {
 
       if (requestUrl.pathname === "/" || requestUrl.pathname === "/health") return health(requestUrl, env);
       if (requestUrl.pathname === "/playlist.m3u" || requestUrl.pathname === "/m3u" || requestUrl.pathname === "/live.m3u") {
-        return servePlaylist(requestUrl, env);
+        const src = requestUrl.searchParams.get("source");
+        const file = src === "1" ? "nvctivi_source1.m3u" : src === "2" ? "nvctivi_source2.m3u" : src === "3" ? "nvctivi_source3.m3u" : "nvctivi.m3u";
+        return servePlaylist(requestUrl, env, file);
       }
+      if (requestUrl.pathname === "/source1.m3u") return servePlaylist(requestUrl, env, "nvctivi_source1.m3u");
+      if (requestUrl.pathname === "/source2.m3u") return servePlaylist(requestUrl, env, "nvctivi_source2.m3u");
+      if (requestUrl.pathname === "/source3.m3u") return servePlaylist(requestUrl, env, "nvctivi_source3.m3u");
       if (requestUrl.pathname === "/search") return searchChannels(requestUrl, env);
       if (requestUrl.pathname === "/groups") return listGroups(requestUrl, env);
       if (requestUrl.pathname === "/channel") return resolveChannel(request, requestUrl, env);

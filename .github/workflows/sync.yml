@@ -39,11 +39,12 @@ jobs:
 
       - name: Check scripts syntax
         run: |
+          python -m py_compile scripts/process_sources.py
           python -m py_compile scripts/nvc_crawler.py
           python -m py_compile scripts/update.py
 
-      - name: Crawl & Validate Live Channels
-        run: python scripts/nvc_crawler.py
+      - name: Process & Validate 3 Sources (VXM, IPTV-Auto, VMTTV)
+        run: python scripts/process_sources.py
 
       - name: Run nvc sync & encrypt playlist
         run: python scripts/update.py
@@ -61,12 +62,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add nvctivi.m3u nvctivi_proxy.m3u nvctivi_channels.json REPORT_LIVE_CHANNELS.md nvc.enc
+          git add nvctivi.m3u nvctivi_proxy.m3u nvctivi_source1.m3u nvctivi_source2.m3u nvctivi_source3.m3u nvctivi_channels.json REPORT_LIVE_CHANNELS.md nvc.enc
 
           if git diff --cached --quiet; then
             echo "Không có thay đổi về luồng kênh, bỏ qua commit."
           else
-            git commit -m "chore: auto-sync and validate nvc live playlist [skip ci]"
+            git commit -m "chore: auto-sync and validate 3 iptv sources & master playlist [skip ci]"
             git push
           fi
 
