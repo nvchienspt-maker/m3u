@@ -69,3 +69,28 @@ jobs:
             git commit -m "chore: auto-sync and validate nvc live playlist [skip ci]"
             git push
           fi
+
+      - name: Sync & Overwrite to NVC-IPTV (api/iptv/link0.m3u)
+        env:
+          NVC_PAT: ${{ secrets.NVC_PAT || secrets.GH_PAT || secrets.SYNC_PAT }}
+        run: |
+          if [ -z "$NVC_PAT" ]; then
+            echo "Chưa cấu hình Secret NVC_PAT. Bỏ qua ghi đè sang repository NVC-IPTV."
+            echo "Để tự động ghi đè sang NVC-IPTV, hãy thêm GitHub Secret 'NVC_PAT' vào repository m3u."
+          else
+            echo "Bắt đầu đồng bộ sang repository nvchienspt-maker/NVC-IPTV..."
+            git clone --depth 1 "https://x-access-token:${NVC_PAT}@github.com/nvchienspt-maker/NVC-IPTV.git" target_repo
+            mkdir -p target_repo/api/iptv
+            cp nvctivi.m3u target_repo/api/iptv/link0.m3u
+            cd target_repo
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add api/iptv/link0.m3u
+            if git diff --cached --quiet; then
+              echo "link0.m3u trên NVC-IPTV đã là bản mới nhất, không có thay đổi."
+            else
+              git commit -m "chore: auto-sync live playlist from m3u to link0.m3u [skip ci]"
+              git push
+              echo "Đã ghi đè thành công nội dung kênh sống vào api/iptv/link0.m3u trên NVC-IPTV!"
+            fi
+          fi

@@ -134,7 +134,17 @@ python scripts/update.py --validate-only
 Dự án đã được tích hợp sẵn quy trình **GitHub Actions** (`.github/workflows/sync.yml`) tự động chạy mỗi 4 tiếng:
 1. Tự động crawl và kiểm tra mọi liên kết streaming trong hệ thống.
 2. Tự động loại bỏ link chết và cập nhật luồng mới nhất.
-3. Tự động commit và đẩy các file M3U mới nhất lên kho lưu trữ.
+3. Tự động mã hóa và cập nhật `nvc.enc` đồng bộ.
+4. Tự động commit và đẩy các file M3U mới nhất lên kho lưu trữ.
+5. **Tự động ghi đè danh sách kênh sống vào repository `NVC-IPTV`** (`api/iptv/link0.m3u`) khi có cấu hình Secret `NVC_PAT`.
+
+### Hướng dẫn cấu hình tự động đồng bộ sang NVC-IPTV
+Để Action tự động ghi đè file `api/iptv/link0.m3u` trên repo `nvchienspt-maker/NVC-IPTV`:
+1. Vào **GitHub Settings** của bạn $\rightarrow$ **Developer Settings** $\rightarrow$ **Personal access tokens** $\rightarrow$ **Tokens (classic)**.
+2. Bấm **Generate new token (classic)**, đặt tên (ví dụ: `NVC_SYNC_TOKEN`), chọn quyền **`repo`** (Full control of private repositories) rồi bấm **Generate token** và sao chép mã token.
+3. Vào repo **`m3u`** $\rightarrow$ **Settings** $\rightarrow$ **Secrets and variables** $\rightarrow$ **Actions** $\rightarrow$ Bấm **New repository secret**.
+4. Đặt Name là: `NVC_PAT` và dán mã token vừa copy vào Value $\rightarrow$ Bấm **Add secret**.
+*Từ lần chạy tiếp theo, GitHub Action sẽ tự động đồng bộ và ghi đè nội dung kênh sống sang `api/iptv/link0.m3u` trên repo NVC-IPTV!*
 
 ---
 
