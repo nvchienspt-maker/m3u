@@ -147,30 +147,15 @@ https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%A5%20Truy%E1%BB%81n%2
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%A5%20Truy%E1%BB%81n%20H%C3%ACnh%20C%C3%A1p%20SCTV&name=SCTV22
 
-#EXTINF:-1 tvg-id="onviegiaitri" tvg-name="ON Vie Giải Trí" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onviegiaitri.png" group-title="🎬 Phim Truyện & Giải Trí",ON Vie Giải Trí
+#EXTINF:-1 tvg-id="onechannel" tvg-name="ON E-Channel" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onechannel.png" group-title="🎬 Phim Truyện & Giải Trí",ON E-Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%BB%87n%20%26%20Gi%E1%BA%A3i%20Tr%C3%AD&name=ON%20Vie%20Gi%E1%BA%A3i%20Tr%C3%AD
-
-#EXTINF:-1 tvg-id="onviedramas" tvg-name="ON Vie Dramas" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onviedramas.png" group-title="🎬 Phim Truyện & Giải Trí",ON Vie Dramas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%BB%87n%20%26%20Gi%E1%BA%A3i%20Tr%C3%AD&name=ON%20Vie%20Dramas
-
-#EXTINF:-1 tvg-id="ontrending" tvg-name="ON TRENDING TV" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/ontrending.png" group-title="🎬 Phim Truyện & Giải Trí",ON TRENDING TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%BB%87n%20%26%20Gi%E1%BA%A3i%20Tr%C3%AD&name=ON%20TRENDING%20TV
+https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%BB%87n%20%26%20Gi%E1%BA%A3i%20Tr%C3%AD&name=ON%20E-Channel
 
 #EXTINF:-1 tvg-id="onvfamily" tvg-name="ON V Family" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onvfamily.png" group-title="🎬 Phim Truyện & Giải Trí",ON V Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%BB%87n%20%26%20Gi%E1%BA%A3i%20Tr%C3%AD&name=ON%20V%20Family
-
-#EXTINF:-1 tvg-id="onstyle" tvg-name="ON Style TV" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onstyle.png" group-title="🎬 Phim Truyện & Giải Trí",ON Style TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%BB%87n%20%26%20Gi%E1%BA%A3i%20Tr%C3%AD&name=ON%20Style%20TV
 
 #EXTINF:-1 tvg-id="onmusic" tvg-name="On Music" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onmusic.png" group-title="🎬 Phim Truyện & Giải Trí",On Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -182,10 +167,15 @@ https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%B
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%BB%87n%20%26%20Gi%E1%BA%A3i%20Tr%C3%AD&name=On%20O2TV
 
-#EXTINF:-1 tvg-id="oninfotv" tvg-name="ON Info TV" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/oninfotv.png" group-title="🎬 Phim Truyện & Giải Trí",ON Info TV
+#EXTINF:-1 tvg-id="onbibi" tvg-name="On BiBi" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onbibi.png" group-title="👧 Thiếu Nhi & Gia Đình",On BiBi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8E%AC%20Phim%20Truy%E1%BB%87n%20%26%20Gi%E1%BA%A3i%20Tr%C3%AD&name=ON%20Info%20TV
+https://nvctivi-stream.workers.dev/channel?group=%F0%9F%91%A7%20Thi%E1%BA%BFu%20Nhi%20%26%20Gia%20%C4%90%C3%ACnh&name=On%20BiBi
+
+#EXTINF:-1 tvg-id="onkids" tvg-name="On Kids" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onkids.png" group-title="👧 Thiếu Nhi & Gia Đình",On Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://nvctivi-stream.workers.dev/channel?group=%F0%9F%91%A7%20Thi%E1%BA%BFu%20Nhi%20%26%20Gia%20%C4%90%C3%ACnh&name=On%20Kids
 
 #EXTINF:-1 tvg-id="haiphong" tvg-name="Hải Phòng" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/haiphong.png" group-title="🏛️ Truyền Hình Địa Phương",Hải Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -247,15 +237,20 @@ https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8F%9B%EF%B8%8F%20Truy%E1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8F%9B%EF%B8%8F%20Truy%E1%BB%81n%20H%C3%ACnh%20%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%A1ng&name=T%C3%A2y%20Ninh
 
+#EXTINF:-1 tvg-id="tvbvietnam" tvg-name="TVB Việt Nam" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/tvb-vietnam.png" group-title="🌐 Kênh Quốc Tế",TVB Việt Nam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8C%90%20K%C3%AAnh%20Qu%E1%BB%91c%20T%E1%BA%BF&name=TVB%20Vi%E1%BB%87t%20Nam
+
+#EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/kbsworld.png" group-title="🌐 Kênh Quốc Tế",KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8C%90%20K%C3%AAnh%20Qu%E1%BB%91c%20T%E1%BA%BF&name=KBS%20World
+
 #EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World Japan" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/nhk.png" group-title="🌐 Kênh Quốc Tế",NHK World Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8C%90%20K%C3%AAnh%20Qu%E1%BB%91c%20T%E1%BA%BF&name=NHK%20World%20Japan
-
-#EXTINF:-1 tvg-id="nhk_premium" tvg-name="NHK Premium" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/nhk.png" group-title="🌐 Kênh Quốc Tế",NHK Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8C%90%20K%C3%AAnh%20Qu%E1%BB%91c%20T%E1%BA%BF&name=NHK%20Premium
 
 #EXTINF:-1 tvg-id="france24" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/france24.png" group-title="🌐 Kênh Quốc Tế",France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -266,11 +261,6 @@ https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8C%90%20K%C3%AAnh%20Qu%E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8C%90%20K%C3%AAnh%20Qu%E1%BB%91c%20T%E1%BA%BF&name=DW%20-%20Deutsche%20Welle
-
-#EXTINF:-1 tvg-id="channelnewsasia" tvg-name="Channel News Asia" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/channelnewsasia.png" group-title="🌐 Kênh Quốc Tế",Channel News Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://nvctivi-stream.workers.dev/channel?group=%F0%9F%8C%90%20K%C3%AAnh%20Qu%E1%BB%91c%20T%E1%BA%BF&name=Channel%20News%20Asia
 
 #EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5 Monde" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/tv5monde.png" group-title="🌐 Kênh Quốc Tế",TV5 Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
