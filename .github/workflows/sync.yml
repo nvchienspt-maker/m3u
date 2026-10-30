@@ -72,7 +72,7 @@ jobs:
 
       - name: Sync & Overwrite to NVC-IPTV (api/iptv/link0.m3u)
         env:
-          NVC_PAT: ${{ secrets.NVC_PAT || secrets.GH_PAT || secrets.SYNC_PAT }}
+          NVC_PAT: ${{ secrets.NVC_PAT || secrets.GH_PAT || secrets.SYNC_PAT || secrets.PAT || secrets.TOKEN || secrets.GH_TOKEN || secrets.NVC_TOKEN }}
         run: |
           if [ -z "$NVC_PAT" ]; then
             echo "Chưa cấu hình Secret NVC_PAT. Bỏ qua ghi đè sang repository NVC-IPTV."
