@@ -1,0 +1,2342 @@
+[
+  {
+    "name": "VTV1",
+    "group": "⭐️ VTV - Kênh Thiết Yếu",
+    "tvg_id": "vtv1hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv1hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8",
+      "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/playlist_360p.m3u8",
+      "https://vietmitv.id.vn/c.php?k=91fda8c"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "VTV2",
+    "group": "⭐️ VTV - Kênh Thiết Yếu",
+    "tvg_id": "vtv2hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv2hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/VTV2-HD-1080p/playlist.m3u8",
+      "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/playlist_360p.m3u8",
+      "https://vietmitv.id.vn/c.php?k=f545cd4"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "VTV3",
+    "group": "⭐️ VTV - Kênh Thiết Yếu",
+    "tvg_id": "vtv3hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv3hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8",
+      "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/playlist_360p.m3u8",
+      "https://vietmitv.id.vn/c.php?k=4eb5844"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "VTV4",
+    "group": "⭐️ VTV - Kênh Thiết Yếu",
+    "tvg_id": "vtv4hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv4hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/VTV4-HD-1080p/playlist.m3u8",
+      "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist_360p.m3u8",
+      "https://vietmitv.id.vn/c.php?k=a5c26d0"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "VTV5",
+    "group": "⭐️ VTV - Kênh Thiết Yếu",
+    "tvg_id": "vtv5hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv5hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/VTV5-HD-1080p/playlist.m3u8",
+      "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist_360p.m3u8",
+      "https://vietmitv.id.vn/c.php?k=ae8ecf4"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "VTV6",
+    "group": "⭐️ VTV - Kênh Thiết Yếu",
+    "tvg_id": "vtv6hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv6hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=b70d018"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "VTV7",
+    "group": "⭐️ VTV - Kênh Thiết Yếu",
+    "tvg_id": "vtv7hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv7hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/VTV7-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=7997b8a"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "VTV8",
+    "group": "⭐️ VTV - Kênh Thiết Yếu",
+    "tvg_id": "vtv8hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv8hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/VTV8-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=561dba2"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "VTV9",
+    "group": "⭐️ VTV - Kênh Thiết Yếu",
+    "tvg_id": "vtv9hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv9hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=74d6bd9"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "VTV10",
+    "group": "⭐️ VTV - Kênh Thiết Yếu",
+    "tvg_id": "vtv10",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv10.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=4802025"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "VTV5 Tây Nam Bộ",
+    "group": "⭐️ VTV - Kênh Thiết Yếu",
+    "tvg_id": "vtv5hdtnb",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv5hdtnb.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=844f585"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "VTV5 Tây Nguyên",
+    "group": "⭐️ VTV - Kênh Thiết Yếu",
+    "tvg_id": "vtv5hdtn",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv5hdtn.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=f954fd8"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "VietNam Today",
+    "group": "⭐️ VTV - Kênh Thiết Yếu",
+    "tvg_id": "vietnamtoday",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vietnamtoday.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=45a10e5"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "An Ninh TV",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "antv-hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/antv-hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/ANTV-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=983c968"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Quốc Phòng Việt Nam",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "qpvn-hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/qpvn-hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=dbe430c"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Vĩnh Long 1",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "thvl1hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thvl1hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/THVL1-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=ddf8023"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Vĩnh Long 2",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "thvl2hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thvl2hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=05d10eb"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Vĩnh Long 3",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "thvl3hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thvl3hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/THVL3-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=a7b34c2"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Vĩnh Long 4",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "thvl4hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thvl4hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/THVL4-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=b128250"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Vĩnh Long 5",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "thvl5hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thvl5hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=a0e1fce"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Tây Ninh",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "tayninhtv",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/tayninhtv.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=bc10e1b"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "An Giang 1",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "angiang1",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/angiang1.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=8d8de0d"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "An Giang 2",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "angiang2",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/angiang2.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=8c4c713"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Lâm Đồng",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "lamdong1",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/lamdong1.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=61fe539"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Bình Thuận",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "lamdong2",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/lamdong2.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=6abef38"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Cà Mau",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "camau",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/camau.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/CAMAU-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=7da08de"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Cần Thơ 1",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "cantho1",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cantho1.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=db5ecd3"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Cần Thơ 2",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "cantho2",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cantho2.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=2670ae8"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Cần Thơ 3",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "cantho3",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cantho3.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=6a39fad"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Đồng Nai 1",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "dongnai1",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dongnai1.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=74f65ba"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Đồng Nai 2",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "dongnai2",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dongnai2.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=5f912b7"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Đồng Nai 3",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "dnrtv3",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dnrtv3.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=9a063dd"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Đồng Tháp 1",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "dongthap",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dongthap.png",
+    "urls": [
+      "https://stream.dongthaptv.vn/live/dttv1.m3u8",
+      "https://vietmitv.id.vn/c.php?k=ef39d8c"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Đồng Tháp 2",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "dongthap2",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dongthap2.png",
+    "urls": [
+      "https://stream.dongthaptv.vn/live/dttv2.m3u8",
+      "https://vietmitv.id.vn/c.php?k=8f9504a"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Đà Nẵng 1",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "danang1",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/danang1.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=db1d242"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Đà Nẵng 2",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "danang2",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/danang2.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=f74e4b2"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Đắk Lắk",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "daklak",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/daklak.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=44808f8"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Thừa Thiên Huế",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "hue",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hue.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=4f54339"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Khánh Hòa",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "khanhhoa",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/khanhhoa.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=a1471ee"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Khánh Hòa 1",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "khanhhoa1",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/khanhhoa1.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=6b615f4"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Quảng Ngãi",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "quangngai",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/quangngai.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=4d647fa"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Quảng Trị",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "quangtri",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/quangtri.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=2201b53"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Hà Nội 1",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "hanoi1",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hanoi1.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=c8e8055"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Hà Nội 2",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "hanoi2",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hanoi2.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=c5bca86"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Bắc Ninh",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "bacninh",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/bacninh.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=78e5139"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Cao Bằng",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "caobang",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/caobang.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=324942d"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Điện Biên",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "dienbien",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dienbien.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=d1c588d"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Hà Tĩnh",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "hatinh",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hatinh.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=7c00981"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Hải Phòng",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "haiphong",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/haiphong.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=0638cb0"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Hải Phòng 3",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "haiphongplus",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/haiphongplus.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=1bc562a"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Hưng Yên",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "hungyen",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hungyen.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=9858cf6"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Lai Châu",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "laichau",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/laichau.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=0c2e443"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Lạng Sơn",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "langson",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/langson.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=275cbb6"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Lào Cai",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "laocai",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/laocai.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=bf2f8d5"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Nghệ An",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "nghean",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/nghean.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=1e3801f"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Ninh Bình",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "ninhbinh",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/ninhbinh.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=20c1988"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Phú Thọ",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "phutho",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/phutho.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=29b9382"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Quảng Ninh 1",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "quangninh1",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/quangninh1.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=5e6789d"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Quảng Ninh 3",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "quangninh3",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/quangninh3.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=b950f46"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Sơn La",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "sonla",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sonla.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=6f5e02d"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Thái Nguyên",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "thainguyen",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thainguyen.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=d7e11ac"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Thanh Hóa",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "thanhhoa",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/thanhhoa.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=0e336de"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Tuyên Quang",
+    "group": "🏛️ Truyền Hình Địa Phương",
+    "tvg_id": "tuyenquang",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/tuyenquang.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=7ad021d"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HTV1",
+    "group": "HTV",
+    "tvg_id": "htv1",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htv1.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=d68c81a"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HTV2",
+    "group": "HTV",
+    "tvg_id": "htv2hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htv2hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=be5d3ca"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HTV3",
+    "group": "HTV",
+    "tvg_id": "htv3",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htv3.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/HTV3-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=0e7df9a"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HTV Key",
+    "group": "HTV",
+    "tvg_id": "htvkey",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvkey.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=11dc023"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HTV7",
+    "group": "HTV",
+    "tvg_id": "htv7hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htv7hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=2a99d18"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HTV9",
+    "group": "HTV",
+    "tvg_id": "htv9hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htv9hd.png",
+    "urls": [
+      "https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8",
+      "https://vietmitv.id.vn/c.php?k=bfda8fd"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HTV Thể Thao",
+    "group": "HTV",
+    "tvg_id": "htvthethaohd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvthethaohd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=32d75b2"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HTVC Thuần Việt",
+    "group": "HTV",
+    "tvg_id": "htvcthuanviet",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvcthuanviet.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=bc5919a"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HTVC Plus",
+    "group": "HTV",
+    "tvg_id": "htvcplushd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvcplushd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=25b9641"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HTVC Du Lịch",
+    "group": "HTV",
+    "tvg_id": "htvcdulichhd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvcdulichhd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=37b2310"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HTVC Phim",
+    "group": "HTV",
+    "tvg_id": "htvcphimhd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvcphimhd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=c839be0"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HTVC Gia Đình",
+    "group": "HTV",
+    "tvg_id": "htvcgiadinhhd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvcgiadinhhd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=bc5a5e7"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HTVC Phụ Nữ",
+    "group": "HTV",
+    "tvg_id": "htvcphunuhd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/htvcphunuhd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=fde41e1"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "ON Vie Giải Trí",
+    "group": "VTVcab",
+    "tvg_id": "onviegiaitri",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onviegiaitri.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=5c975ba"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "ON Phim Việt",
+    "group": "VTVcab",
+    "tvg_id": "onphimviet",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onphimviet.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=0fa218e"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "On Movies",
+    "group": "VTVcab",
+    "tvg_id": "onmovies",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onmovies.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=6d5e19c"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "ON E- Channel",
+    "group": "VTVcab",
+    "tvg_id": "onechannel",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onechannel.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=2094832"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "On O2TV",
+    "group": "VTVcab",
+    "tvg_id": "ono2tv",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/ono2tv.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=212c7c8"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "On BiBi",
+    "group": "VTVcab",
+    "tvg_id": "onbibi",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onbibi.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=0009010"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "ON Info TV",
+    "group": "VTVcab",
+    "tvg_id": "oninfotv",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/oninfotv.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=bcb8ad9"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "ON Cine",
+    "group": "VTVcab",
+    "tvg_id": "oncine",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/oncine.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=13fa5d2"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "ON Style TV",
+    "group": "VTVcab",
+    "tvg_id": "onstyle",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onstyle.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=db10182"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "On Music",
+    "group": "VTVcab",
+    "tvg_id": "onmusic",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onmusic.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=2406e6c"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "ON TRENDING TV",
+    "group": "VTVcab",
+    "tvg_id": "ontrending",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/ontrending.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=93f5539"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "ON Vie Dramas",
+    "group": "VTVcab",
+    "tvg_id": "onviedramas",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onviedramas.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=2a92be7"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "ON V Family",
+    "group": "VTVcab",
+    "tvg_id": "onvfamily",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onvfamily.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=a666bb8"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "On Kids",
+    "group": "VTVcab",
+    "tvg_id": "onkids",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onkids.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=facd9a9"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "On Life",
+    "group": "VTVcab",
+    "tvg_id": "onlife",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onlife.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=a4d402a"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "ON SPORTS",
+    "group": "VTVcab",
+    "tvg_id": "onsports",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onsports.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=48a21fd"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "ON SPORTS+",
+    "group": "VTVcab",
+    "tvg_id": "onsportsplus",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onsportsplus.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=be48ef9"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "ON FOOTBALL",
+    "group": "VTVcab",
+    "tvg_id": "onfootball",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onfootball.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=d53ed82"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "ON SPORTS NEWS",
+    "group": "VTVcab",
+    "tvg_id": "onsportsnews",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onsportsnews.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=aac3295"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "ON GOLF",
+    "group": "VTVcab",
+    "tvg_id": "ongolf",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/ongolf.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=7c1dc3a"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "SCTV1",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv1hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv1hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=82e5f0b"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "SCTV2",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv2hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv2hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=ed84851"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "SCTV3",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv3hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv3hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=eaa9eb5"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV4",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv4hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv4hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=4a1be6d"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV5",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv5hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv5hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=6dddb0c"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "SCTV6",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv6hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv6hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=471875c"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "SCTV7",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv7hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv7hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=fc923bf"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV8",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv8hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv8hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=e1d0f56"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV9",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv9",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv9.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=ebfd0fe"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV10",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv10hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv10hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=b451473"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "SCTV11",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv11hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv11hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=409491c"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV12",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv12hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv12hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=126ec8d"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV13",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv13hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv13hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=b92a0a7"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV14",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv14hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv14hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=04ffacb"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "SCTV15",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv15",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv15.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=a07d1b6"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV16",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv16hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv16hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=d64f3bc"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV17",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv17",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv17.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=227db01"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV18",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv18hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv18hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=96c49c8"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV19",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv19hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv19hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=fed9379"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV20",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv20hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv20hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=834c06b"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV21 - Việt Nam Ký Ức",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv21hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv21hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=e04e88a"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV22",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctv22hd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctv22hd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=83434df"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "SCTV Phim Tổng Hợp",
+    "group": "🎥 Truyền Hình Cáp SCTV",
+    "tvg_id": "sctvhdpth",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/sctvhdpth.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=be66646"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Box Movie 1",
+    "group": "🎬 Phim Truyện & Âm Nhạc",
+    "tvg_id": "boxmovie1",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/boxmovie1.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=bacd3fe1bac3a7b6"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Hollywood Classics",
+    "group": "🎬 Phim Truyện & Âm Nhạc",
+    "tvg_id": "hollywoodclassics",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hollywoodclassics.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=f4cb1aad7234519b"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Box Hits",
+    "group": "🎬 Phim Truyện & Âm Nhạc",
+    "tvg_id": "boxhits",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/boxhits.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=0bef0225e3257223"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Music Box",
+    "group": "🎬 Phim Truyện & Âm Nhạc",
+    "tvg_id": "musicbox",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/musicbox.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=66cd51bd9f826250"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Woman",
+    "group": "🎬 Phim Truyện & Âm Nhạc",
+    "tvg_id": "woman",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/woman.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=904298f83bf8f8fc"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "TVB Việt Nam",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "tvb-vietnam",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/tvb-vietnam.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=24a932f1ddbed2be"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Warner TV",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "warnertv",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/warnertv.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=8e2e6b0ad094042e"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "HBO",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "hbo",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hbo.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=4644b6539c2b01ef"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "CinemaWorld",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "cinemaworld",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cinemaworld.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=86fa514c8c5a9a2d"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "AXN",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "axn",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/axn.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=5ca63a0b8c7f8a19"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Cinemax",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "cinemax",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cinemax.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=7cec2562df0b32c5"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Cartoon Network",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "cartoonnetwork",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cartoonnetwork.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=2740d958315d8330"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Cartoonito",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "cartoonito",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cartoonito.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=949e554e5eabad4e"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "BBC Cbeebies",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "bbc-cbeebies",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/bbc-cbeebies.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=2048caba5ae6307d"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Dmax",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "dmax",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dmax.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=91fd7ec2976e12bc"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Dreamworks",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "dreamworks",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dreamworks.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=4f8e4b1df326bb91"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Davinci",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "davinci",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/davinci.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=4c391a84c9633ef2"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Kix",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "kix",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/kix.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=efa3a413e6c10a76"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Animal-planet",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "animal-planet",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/animal-planet.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=a1c43ecee3142bde"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Outdoor HD",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "outdoorhd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/outdoorhd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=97b8b63a34618b8a"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Channel News Asia",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "channelnewsasia",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/channelnewsasia.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=e47519e6c738f235"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "TV5",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "tv5monde",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/tv5monde.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=fd70eaf55b8ad286"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Discovery",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "discovery",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/discovery.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=567304155a4cc5a6"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Travel Living Channel",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "tlc",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/tlc.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=b67394734333293f"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Discovery Asia",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "discoveryasia",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/discoveryasia.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=b693e9402a6c954e"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Fashion TV",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "fashiontv",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/fashiontv.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=e2274e6cafda91a9"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Asia Food Network HD",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "afnhd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/afnhd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=015d8363a37e0a25"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "HGTV",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "hgtv",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/hgtv.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=78d0ce6ae5ebab98"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "KBS World",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "kbsworld",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/kbsworld.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=de55dd1c30425798"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "NHK World Japan",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "nhkworld",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/nhkworld.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=821cc0a76b9ae654"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "NHK Premium",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "nhk_premium",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/nhk_premium.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=3714b1cfca8cac1f"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "France 24",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "france24",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/france24.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=61ba002639c4e0c8"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CNBC SD",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "cnbcsd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cnbcsd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=878728aea2f68799"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "History HD",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "historyhd",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/historyhd.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=305d4427559fc994"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "DW - Deutsche Welle",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "dw",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/dw.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=0c33f1bb2e61a86e"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CNN",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "cnn",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/cnn.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=eba2439a51a6257a"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "Arirang",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "arirang",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/arirang.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=870c56b7cc5a7762"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": true
+  },
+  {
+    "name": "Bloomberg",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "bloomberg",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/bloomberg.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=6c17be5fefd3d129"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "BBC Lifestyle",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "bbclifestyle",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/bbclifestyle.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=6e9d9000aa6e2e73"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "BBC World News",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "bbcnews",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/bbcnews.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=edd17cbf576e0ecd"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "BBC Earth",
+    "group": "🌍 Kênh Quốc Tế Đặc Sắc",
+    "tvg_id": "bbcearth",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/bbcearth.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=384ccba07667b439"
+    ],
+    "headers": {
+      "User-Agent": "Dalvik/2.1.0"
+    },
+    "kodi": false
+  },
+  {
+    "name": "CCTV1",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv1",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv1.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=712f28e"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV2",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv2",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv2.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=10c332e"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV3",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv3",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv3.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=9a161b7"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV4",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv4",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv4.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=bc3a732"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV5",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv5",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv5.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=40d6b44"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV5+",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv5plus",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv5plus.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=a921acd"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV6",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv6",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv6.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=e35e8f9"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV7",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv7",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv7.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=004ed2b"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV8",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv8",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv8.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=3667033"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV9",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv9",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv9.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=f448575"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV10",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv10",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv10.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=d8c22cf"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV11",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv11",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv11.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=0858a1c"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV12",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv12",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv12.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=e49e932"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV13",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv13",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv13.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=2e5409a"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV14",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv14",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv14.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=94d1bf4"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV15",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv15",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv15.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=849531d"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV16",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv16",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv16.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=14c5975"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  },
+  {
+    "name": "CCTV17",
+    "group": "🇨🇳 Kênh Truyền Hình CCTV",
+    "tvg_id": "enc-cctv17",
+    "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/enc-cctv17.png",
+    "urls": [
+      "https://vietmitv.id.vn/c.php?k=62ef208"
+    ],
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "kodi": true
+  }
+]
