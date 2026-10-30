@@ -4,8 +4,8 @@
   "generated_at": "2026-10-30 04:09:27",
   "total_live_channels": 55,
   "epg_urls": [
-    "https://epg.io.vn/epgc.xml",
-    "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+    "https://epgvn.vercel.app/epg.xml",
+    "https://epg.io.vn/epgc.xml"
   ],
   "groups": [
     "⭐️ VTV - Kênh Thiết Yếu",

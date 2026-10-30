@@ -23,7 +23,7 @@
   - Phân loại danh mục kênh theo nhóm: `/groups`.
   - Hỗ trợ đầy đủ CORS, giải mã DRM, bảo vệ nguồn luồng và giảm độ trễ khi chuyển kênh.
 - 📺 **Chuẩn Hoá Toàn Diện**:
-  - Tích hợp lịch phát sóng điện tử (EPG): `url-tvg="https://epg.io.vn/epgc.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"`.
+  - Tích hợp lịch phát sóng điện tử (EPG): `url-tvg="https://epgvn.vercel.app/epg.xml,https://epg.io.vn/epgc.xml"`.
   - Đồng bộ chuẩn thẻ `tvg-id`, `tvg-name`, `tvg-logo`, `group-title`.
   - Kho 170+ biểu trưng (logo) sắc nét chuẩn tỷ lệ tại thư mục `logos/`.
 

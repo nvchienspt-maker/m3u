@@ -940,7 +940,7 @@ def verify_channel(channel):
 def generate_m3u(verified_list, out_path, proxy_origin=None):
     """Tạo file playlist .M3U chuẩn định dạng Extended M3U cho NVC Tivi."""
     lines = [
-        '#EXTM3U url-tvg="https://epg.io.vn/epgc.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-shift=0 m3uautoload=1',
+        '#EXTM3U url-tvg="https://epgvn.vercel.app/epg.xml,https://epg.io.vn/epgc.xml" tvg-shift=0 m3uautoload=1',
         '#PLAYLIST: NVC Tivi - Truyền Hình Việt Nam Chuẩn Link Sống',
         '#AUTHOR: NVC Tivi Development Team',
         ''
@@ -1017,8 +1017,8 @@ def main():
         "generated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
         "total_live_channels": len(live_channels),
         "epg_urls": [
-            "https://epg.io.vn/epgc.xml",
-            "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+            "https://epgvn.vercel.app/epg.xml",
+            "https://epg.io.vn/epgc.xml"
         ],
         "groups": list(groups.keys()),
         "channels": [

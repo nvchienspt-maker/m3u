@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.io.vn/epgc.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epgvn.vercel.app/epg.xml,https://epg.io.vn/epgc.xml" tvg-shift=0 m3uautoload=1
 #PLAYLIST: NVC Tivi - Truyền Hình Việt Nam Chuẩn Link Sống
 #AUTHOR: NVC Tivi Development Team
 

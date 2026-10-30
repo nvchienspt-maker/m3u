@@ -318,7 +318,7 @@ async function servePlaylist(requestUrl: URL, env: SecretEnv): Promise<Response>
 
   const blocks = parseBlocks(source.text);
   const outputLines: string[] = [
-    '#EXTM3U url-tvg="https://epg.io.vn/epgc.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-shift=0 m3uautoload=1',
+    '#EXTM3U url-tvg="https://epgvn.vercel.app/epg.xml,https://epg.io.vn/epgc.xml" tvg-shift=0 m3uautoload=1',
     '#PLAYLIST: NVC Tivi - Truyền Hình Việt Nam Chuẩn Link Sống',
     '#APP: NVC Tivi v2.0',
     ''
