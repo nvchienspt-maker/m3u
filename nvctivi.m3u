@@ -147,20 +147,25 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv22/master.m3u8
 
-#EXTINF:-1 tvg-id="onmovies" tvg-name="On Movies" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onmovies.png" group-title="🎬 Phim Truyện & Giải Trí",On Movies
+#EXTINF:-1 tvg-id="onviedramas" tvg-name="ON Vie Dramas" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onviedramas.png" group-title="🎬 Phim Truyện & Giải Trí",ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=6d5e19c
+https://vietmitv.id.vn/c.php?k=2a92be7
 
-#EXTINF:-1 tvg-id="ontrending" tvg-name="ON TRENDING TV" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/ontrending.png" group-title="🎬 Phim Truyện & Giải Trí",ON TRENDING TV
+#EXTINF:-1 tvg-id="onmusic" tvg-name="On Music" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onmusic.png" group-title="🎬 Phim Truyện & Giải Trí",On Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=93f5539
+https://vietmitv.id.vn/c.php?k=2406e6c
 
-#EXTINF:-1 tvg-id="onstyle" tvg-name="ON Style TV" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onstyle.png" group-title="🎬 Phim Truyện & Giải Trí",ON Style TV
+#EXTINF:-1 tvg-id="ono2tv" tvg-name="On O2TV" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/ono2tv.png" group-title="🎬 Phim Truyện & Giải Trí",On O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=db10182
+https://vietmitv.id.vn/c.php?k=212c7c8
+
+#EXTINF:-1 tvg-id="onkids" tvg-name="On Kids" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onkids.png" group-title="👧 Thiếu Nhi & Gia Đình",On Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://vietmitv.id.vn/c.php?k=facd9a9
 
 #EXTINF:-1 tvg-id="haiphong" tvg-name="Hải Phòng" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/haiphong.png" group-title="🏛️ Truyền Hình Địa Phương",Hải Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -242,11 +247,6 @@ https://vietmitv.id.vn/c.php?k=821cc0a76b9ae654
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=3714b1cfca8cac1f
 
-#EXTINF:-1 tvg-id="france24" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/france24.png" group-title="🌐 Kênh Quốc Tế",France 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=61ba002639c4e0c8
-
 #EXTINF:-1 tvg-id="dw" tvg-name="DW - Deutsche Welle" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/dw.png" group-title="🌐 Kênh Quốc Tế",DW - Deutsche Welle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -256,16 +256,6 @@ https://vietmitv.id.vn/c.php?k=0c33f1bb2e61a86e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=e47519e6c738f235
-
-#EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5 Monde" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/tv5monde.png" group-title="🌐 Kênh Quốc Tế",TV5 Monde
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=fd70eaf55b8ad286
-
-#EXTINF:-1 tvg-id="kix" tvg-name="Kix" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/kix.png" group-title="🌐 Kênh Quốc Tế",Kix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=efa3a413e6c10a76
 
 #EXTINF:-1 tvg-id="arirang" tvg-name="Arirang TV HD" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/arirang.png" group-title="🌐 Kênh Quốc Tế",Arirang TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
