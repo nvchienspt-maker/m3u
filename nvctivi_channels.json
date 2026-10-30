@@ -1,7 +1,7 @@
 {
   "app": "NVC Tivi",
   "version": "2.0.0",
-  "generated_at": "2026-10-30 04:37:19",
+  "generated_at": "2026-10-30 05:27:37",
   "total_channels": 178,
   "epg_urls": [
     "https://epgvn.vercel.app/epg.xml",
@@ -26,8 +26,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 1809,
-      "status": "ALIVE (Geo-VN 403) (1809ms)"
+      "latency_ms": 1699,
+      "status": "ALIVE (Geo-VN 403) (1699ms)"
     },
     {
       "name": "VTV2",
@@ -37,8 +37,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/VTV2-HD-1080p/playlist.m3u8",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 1812,
-      "status": "ALIVE (Geo-VN 403) (1812ms)"
+      "latency_ms": 1699,
+      "status": "ALIVE (Geo-VN 403) (1699ms)"
     },
     {
       "name": "VTV3",
@@ -48,8 +48,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 1811,
-      "status": "ALIVE (Geo-VN 403) (1811ms)"
+      "latency_ms": 1703,
+      "status": "ALIVE (Geo-VN 403) (1703ms)"
     },
     {
       "name": "VTV4",
@@ -59,8 +59,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/VTV4-HD-1080p/playlist.m3u8",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 1806,
-      "status": "ALIVE (Geo-VN 403) (1806ms)"
+      "latency_ms": 1697,
+      "status": "ALIVE (Geo-VN 403) (1697ms)"
     },
     {
       "name": "VTV5",
@@ -70,8 +70,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/VTV5-HD-1080p/playlist.m3u8",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 1803,
-      "status": "ALIVE (Geo-VN 403) (1803ms)"
+      "latency_ms": 1702,
+      "status": "ALIVE (Geo-VN 403) (1702ms)"
     },
     {
       "name": "VTV6",
@@ -92,8 +92,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/VTV7-HD-1080p/playlist.m3u8",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 1802,
-      "status": "ALIVE (Geo-VN 403) (1802ms)"
+      "latency_ms": 1705,
+      "status": "ALIVE (Geo-VN 403) (1705ms)"
     },
     {
       "name": "VTV8",
@@ -103,8 +103,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/VTV8-HD-1080p/playlist.m3u8",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 1797,
-      "status": "ALIVE (Geo-VN 403) (1797ms)"
+      "latency_ms": 1692,
+      "status": "ALIVE (Geo-VN 403) (1692ms)"
     },
     {
       "name": "VTV9",
@@ -114,8 +114,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 956,
-      "status": "ALIVE (Geo-VN 403) (956ms)"
+      "latency_ms": 948,
+      "status": "ALIVE (Geo-VN 403) (948ms)"
     },
     {
       "name": "VTV10",
@@ -169,8 +169,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/ANTV-HD-1080p/playlist.m3u8",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 951,
-      "status": "ALIVE (Geo-VN 403) (951ms)"
+      "latency_ms": 936,
+      "status": "ALIVE (Geo-VN 403) (936ms)"
     },
     {
       "name": "Quốc Phòng Việt Nam",
@@ -191,8 +191,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/THVL1-HD-1080p/playlist.m3u8",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 968,
-      "status": "ALIVE (Geo-VN 403) (968ms)"
+      "latency_ms": 950,
+      "status": "ALIVE (Geo-VN 403) (950ms)"
     },
     {
       "name": "Vĩnh Long 2",
@@ -202,8 +202,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 953,
-      "status": "ALIVE (Geo-VN 403) (953ms)"
+      "latency_ms": 947,
+      "status": "ALIVE (Geo-VN 403) (947ms)"
     },
     {
       "name": "Vĩnh Long 3",
@@ -213,8 +213,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/THVL3-HD-1080p/playlist.m3u8",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 639,
-      "status": "ALIVE (Geo-VN 403) (639ms)"
+      "latency_ms": 944,
+      "status": "ALIVE (Geo-VN 403) (944ms)"
     },
     {
       "name": "Vĩnh Long 4",
@@ -224,8 +224,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/THVL4-HD-1080p/playlist.m3u8",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 969,
-      "status": "ALIVE (Geo-VN 403) (969ms)"
+      "latency_ms": 938,
+      "status": "ALIVE (Geo-VN 403) (938ms)"
     },
     {
       "name": "Vĩnh Long 5",
@@ -235,8 +235,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=a0e1fce",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 3491,
+      "status": "ALIVE (3491ms)"
     },
     {
       "name": "Tây Ninh",
@@ -257,8 +257,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=8d8de0d",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 4439,
+      "status": "ALIVE (4439ms)"
     },
     {
       "name": "An Giang 2",
@@ -268,8 +268,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=8c4c713",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 4394,
-      "status": "ALIVE (4394ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Lâm Đồng",
@@ -279,8 +279,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=61fe539",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 3776,
-      "status": "ALIVE (3776ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Bình Thuận",
@@ -290,8 +290,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=6abef38",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 4376,
+      "status": "ALIVE (4376ms)"
     },
     {
       "name": "Cà Mau",
@@ -301,8 +301,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/CAMAU-HD-1080p/playlist.m3u8",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 879,
-      "status": "ALIVE (Geo-VN 403) (879ms)"
+      "latency_ms": 927,
+      "status": "ALIVE (Geo-VN 403) (927ms)"
     },
     {
       "name": "Cần Thơ 1",
@@ -312,8 +312,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=db5ecd3",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 6319,
-      "status": "ALIVE (6319ms)"
+      "latency_ms": 5091,
+      "status": "ALIVE (5091ms)"
     },
     {
       "name": "Cần Thơ 2",
@@ -323,8 +323,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=2670ae8",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 4720,
-      "status": "ALIVE (4720ms)"
+      "latency_ms": 5231,
+      "status": "ALIVE (5231ms)"
     },
     {
       "name": "Cần Thơ 3",
@@ -334,8 +334,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=6a39fad",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 6267,
-      "status": "ALIVE (6267ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Đồng Nai 1",
@@ -356,8 +356,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=5f912b7",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 4761,
+      "status": "ALIVE (4761ms)"
     },
     {
       "name": "Đồng Nai 3",
@@ -375,11 +375,11 @@
       "group": "🏛️ Truyền Hình Địa Phương",
       "tvg_id": "dongthap",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dongthap.png",
-      "url": "https://stream.dongthaptv.vn/live/dttv1.m3u8",
+      "url": "https://vietmitv.id.vn/c.php?k=ef39d8c",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 4501,
+      "status": "ALIVE (4501ms)"
     },
     {
       "name": "Đồng Tháp 2",
@@ -389,8 +389,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=8f9504a",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 2837,
-      "status": "ALIVE (2837ms)"
+      "latency_ms": 3709,
+      "status": "ALIVE (3709ms)"
     },
     {
       "name": "Đà Nẵng 1",
@@ -422,8 +422,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=44808f8",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 1964,
-      "status": "ALIVE (1964ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Thừa Thiên Huế",
@@ -444,8 +444,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=a1471ee",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 2193,
-      "status": "ALIVE (2193ms)"
+      "latency_ms": 8013,
+      "status": "ALIVE (8013ms)"
     },
     {
       "name": "Khánh Hòa 1",
@@ -455,8 +455,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=6b615f4",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 5182,
+      "status": "ALIVE (5182ms)"
     },
     {
       "name": "Quảng Ngãi",
@@ -466,8 +466,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=4d647fa",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 6860,
+      "status": "ALIVE (6860ms)"
     },
     {
       "name": "Quảng Trị",
@@ -477,8 +477,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=2201b53",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 6067,
+      "status": "ALIVE (6067ms)"
     },
     {
       "name": "Hà Nội 1",
@@ -488,8 +488,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=c8e8055",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 1797,
-      "status": "ALIVE (1797ms)"
+      "latency_ms": 5142,
+      "status": "ALIVE (5142ms)"
     },
     {
       "name": "Hà Nội 2",
@@ -499,8 +499,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=c5bca86",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 3901,
-      "status": "ALIVE (3901ms)"
+      "latency_ms": 5099,
+      "status": "ALIVE (5099ms)"
     },
     {
       "name": "Bắc Ninh",
@@ -510,8 +510,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=78e5139",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 4122,
-      "status": "ALIVE (4122ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Cao Bằng",
@@ -521,8 +521,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=324942d",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 4397,
+      "status": "ALIVE (4397ms)"
     },
     {
       "name": "Điện Biên",
@@ -532,8 +532,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=d1c588d",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 4510,
-      "status": "ALIVE (4510ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Hà Tĩnh",
@@ -543,8 +543,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=7c00981",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 4475,
-      "status": "ALIVE (4475ms)"
+      "latency_ms": 1724,
+      "status": "ALIVE (1724ms)"
     },
     {
       "name": "Hải Phòng",
@@ -554,8 +554,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=0638cb0",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 3233,
-      "status": "ALIVE (3233ms)"
+      "latency_ms": 1726,
+      "status": "ALIVE (1726ms)"
     },
     {
       "name": "Hải Phòng 3",
@@ -565,8 +565,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=1bc562a",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 4988,
-      "status": "ALIVE (4988ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Hưng Yên",
@@ -576,8 +576,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=9858cf6",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 3244,
-      "status": "ALIVE (3244ms)"
+      "latency_ms": 6091,
+      "status": "ALIVE (6091ms)"
     },
     {
       "name": "Lai Châu",
@@ -587,8 +587,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=0c2e443",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 4585,
-      "status": "ALIVE (4585ms)"
+      "latency_ms": 11351,
+      "status": "ALIVE (11351ms)"
     },
     {
       "name": "Lạng Sơn",
@@ -598,8 +598,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=275cbb6",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 1783,
-      "status": "ALIVE (1783ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Lào Cai",
@@ -609,8 +609,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=bf2f8d5",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 5412,
+      "status": "ALIVE (5412ms)"
     },
     {
       "name": "Nghệ An",
@@ -620,8 +620,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=1e3801f",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 4751,
-      "status": "ALIVE (4751ms)"
+      "latency_ms": 7079,
+      "status": "ALIVE (7079ms)"
     },
     {
       "name": "Ninh Bình",
@@ -631,8 +631,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=20c1988",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 3289,
-      "status": "ALIVE (3289ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Phú Thọ",
@@ -642,8 +642,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=29b9382",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 4295,
-      "status": "ALIVE (4295ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Quảng Ninh 1",
@@ -653,8 +653,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=5e6789d",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 2029,
-      "status": "ALIVE (2029ms)"
+      "latency_ms": 8110,
+      "status": "ALIVE (8110ms)"
     },
     {
       "name": "Quảng Ninh 3",
@@ -675,8 +675,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=6f5e02d",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 2581,
-      "status": "ALIVE (2581ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Thái Nguyên",
@@ -686,8 +686,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=d7e11ac",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 1788,
-      "status": "ALIVE (1788ms)"
+      "latency_ms": 4577,
+      "status": "ALIVE (4577ms)"
     },
     {
       "name": "Thanh Hóa",
@@ -697,8 +697,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=0e336de",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 4775,
-      "status": "ALIVE (4775ms)"
+      "latency_ms": 4474,
+      "status": "ALIVE (4474ms)"
     },
     {
       "name": "Tuyên Quang",
@@ -719,8 +719,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "latency_ms": 647,
-      "status": "ALIVE (Geo-VN 403) (647ms)"
+      "latency_ms": 927,
+      "status": "ALIVE (Geo-VN 403) (927ms)"
     },
     {
       "name": "HTV2",
@@ -730,8 +730,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "latency_ms": 634,
-      "status": "ALIVE (Geo-VN 403) (634ms)"
+      "latency_ms": 952,
+      "status": "ALIVE (Geo-VN 403) (952ms)"
     },
     {
       "name": "HTV3",
@@ -741,8 +741,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/HTV3-HD-1080p/playlist.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "latency_ms": 631,
-      "status": "ALIVE (Geo-VN 403) (631ms)"
+      "latency_ms": 937,
+      "status": "ALIVE (Geo-VN 403) (937ms)"
     },
     {
       "name": "HTV Key",
@@ -752,8 +752,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=11dc023",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "latency_ms": 2068,
-      "status": "ALIVE (2068ms)"
+      "latency_ms": 3389,
+      "status": "ALIVE (3389ms)"
     },
     {
       "name": "HTV7",
@@ -763,8 +763,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "latency_ms": 932,
-      "status": "ALIVE (Geo-VN 403) (932ms)"
+      "latency_ms": 979,
+      "status": "ALIVE (Geo-VN 403) (979ms)"
     },
     {
       "name": "HTV9",
@@ -774,8 +774,8 @@
       "url": "https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "latency_ms": 925,
-      "status": "ALIVE (Geo-VN 403) (925ms)"
+      "latency_ms": 644,
+      "status": "ALIVE (Geo-VN 403) (644ms)"
     },
     {
       "name": "HTV Thể Thao",
@@ -785,8 +785,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=32d75b2",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "latency_ms": 3164,
-      "status": "ALIVE (3164ms)"
+      "latency_ms": 2597,
+      "status": "ALIVE (2597ms)"
     },
     {
       "name": "HTVC Thuần Việt",
@@ -796,8 +796,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=bc5919a",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "latency_ms": 6772,
-      "status": "ALIVE (6772ms)"
+      "latency_ms": 3452,
+      "status": "ALIVE (3452ms)"
     },
     {
       "name": "HTVC Plus",
@@ -807,8 +807,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=25b9641",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "latency_ms": 10231,
-      "status": "ALIVE (10231ms)"
+      "latency_ms": 1741,
+      "status": "ALIVE (1741ms)"
     },
     {
       "name": "HTVC Du Lịch",
@@ -818,8 +818,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=37b2310",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "latency_ms": 6313,
-      "status": "ALIVE (6313ms)"
+      "latency_ms": 2428,
+      "status": "ALIVE (2428ms)"
     },
     {
       "name": "HTVC Phim",
@@ -840,8 +840,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=bc5a5e7",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "latency_ms": 3482,
-      "status": "ALIVE (3482ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "HTVC Phụ Nữ",
@@ -851,8 +851,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=fde41e1",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "latency_ms": 2059,
-      "status": "ALIVE (2059ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "ON Vie Giải Trí",
@@ -862,8 +862,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=5c975ba",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 2324,
-      "status": "ALIVE (2324ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "ON Phim Việt",
@@ -884,8 +884,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=6d5e19c",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 5162,
-      "status": "ALIVE (5162ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "ON E- Channel",
@@ -906,8 +906,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=212c7c8",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 2278,
-      "status": "ALIVE (2278ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "On BiBi",
@@ -917,8 +917,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=0009010",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 3534,
-      "status": "ALIVE (3534ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "ON Info TV",
@@ -928,8 +928,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=bcb8ad9",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 3956,
-      "status": "ALIVE (3956ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "ON Cine",
@@ -939,8 +939,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=13fa5d2",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 2826,
+      "status": "ALIVE (2826ms)"
     },
     {
       "name": "ON Style TV",
@@ -961,8 +961,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=2406e6c",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 2826,
+      "status": "ALIVE (2826ms)"
     },
     {
       "name": "ON TRENDING TV",
@@ -972,8 +972,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=93f5539",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 11562,
-      "status": "ALIVE (11562ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "ON Vie Dramas",
@@ -983,8 +983,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=2a92be7",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 5112,
-      "status": "ALIVE (5112ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "ON V Family",
@@ -994,8 +994,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=a666bb8",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 10991,
-      "status": "ALIVE (10991ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "On Kids",
@@ -1005,8 +1005,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=facd9a9",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 9347,
-      "status": "ALIVE (9347ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "On Life",
@@ -1016,8 +1016,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=a4d402a",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 4266,
-      "status": "ALIVE (4266ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "ON SPORTS",
@@ -1027,8 +1027,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=48a21fd",
       "user_agent": "Dalvik/2.1.0",
       "kodi": false,
-      "latency_ms": 1735,
-      "status": "ALIVE (1735ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "ON SPORTS+",
@@ -1060,8 +1060,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=aac3295",
       "user_agent": "Dalvik/2.1.0",
       "kodi": false,
-      "latency_ms": 3941,
-      "status": "ALIVE (3941ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "ON GOLF",
@@ -1071,8 +1071,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=7c1dc3a",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "latency_ms": 4538,
-      "status": "ALIVE (4538ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "SCTV1",
@@ -1082,8 +1082,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=82e5f0b",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
-      "latency_ms": 1318,
-      "status": "ALIVE (1318ms)"
+      "latency_ms": 1363,
+      "status": "ALIVE (1363ms)"
     },
     {
       "name": "SCTV2",
@@ -1104,8 +1104,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=eaa9eb5",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 1500,
+      "status": "ALIVE (1500ms)"
     },
     {
       "name": "SCTV4",
@@ -1115,8 +1115,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=4a1be6d",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "latency_ms": 2640,
-      "status": "ALIVE (2640ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "SCTV5",
@@ -1159,8 +1159,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=e1d0f56",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 1509,
+      "status": "ALIVE (1509ms)"
     },
     {
       "name": "SCTV9",
@@ -1181,8 +1181,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=b451473",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
-      "latency_ms": 3712,
-      "status": "ALIVE (3712ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "SCTV11",
@@ -1192,8 +1192,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=409491c",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "latency_ms": 717,
-      "status": "ALIVE (717ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "SCTV12",
@@ -1203,8 +1203,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=126ec8d",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "latency_ms": 1345,
-      "status": "ALIVE (1345ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "SCTV13",
@@ -1214,8 +1214,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=b92a0a7",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "latency_ms": 2447,
-      "status": "ALIVE (2447ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "SCTV14",
@@ -1247,8 +1247,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=d64f3bc",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "latency_ms": 2477,
-      "status": "ALIVE (2477ms)"
+      "latency_ms": 3836,
+      "status": "ALIVE (3836ms)"
     },
     {
       "name": "SCTV17",
@@ -1258,8 +1258,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=227db01",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "latency_ms": 1457,
-      "status": "ALIVE (1457ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "SCTV18",
@@ -1291,8 +1291,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=834c06b",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "latency_ms": 2851,
-      "status": "ALIVE (2851ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "SCTV21 - Việt Nam Ký Ức",
@@ -1324,8 +1324,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=be66646",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "latency_ms": 1730,
-      "status": "ALIVE (1730ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Box Movie 1",
@@ -1335,8 +1335,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=bacd3fe1bac3a7b6",
       "user_agent": "Dalvik/2.1.0",
       "kodi": false,
-      "latency_ms": 1183,
-      "status": "ALIVE (1183ms)"
+      "latency_ms": 1277,
+      "status": "ALIVE (1277ms)"
     },
     {
       "name": "Hollywood Classics",
@@ -1346,8 +1346,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=f4cb1aad7234519b",
       "user_agent": "Dalvik/2.1.0",
       "kodi": false,
-      "latency_ms": 1186,
-      "status": "ALIVE (1186ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Box Hits",
@@ -1379,8 +1379,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=904298f83bf8f8fc",
       "user_agent": "Dalvik/2.1.0",
       "kodi": false,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 837,
+      "status": "ALIVE (837ms)"
     },
     {
       "name": "TVB Việt Nam",
@@ -1445,8 +1445,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=7cec2562df0b32c5",
       "user_agent": "Dalvik/2.1.0",
       "kodi": false,
-      "latency_ms": 734,
-      "status": "ALIVE (734ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Cartoon Network",
@@ -1467,8 +1467,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=949e554e5eabad4e",
       "user_agent": "Dalvik/2.1.0",
       "kodi": false,
-      "latency_ms": 2535,
-      "status": "ALIVE (2535ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "BBC Cbeebies",
@@ -1500,8 +1500,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=4f8e4b1df326bb91",
       "user_agent": "Dalvik/2.1.0",
       "kodi": false,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 806,
+      "status": "ALIVE (806ms)"
     },
     {
       "name": "Davinci",
@@ -1511,8 +1511,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=4c391a84c9633ef2",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 5952,
-      "status": "ALIVE (5952ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Kix",
@@ -1522,8 +1522,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=efa3a413e6c10a76",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 2567,
+      "status": "ALIVE (2567ms)"
     },
     {
       "name": "Animal-planet",
@@ -1544,8 +1544,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=97b8b63a34618b8a",
       "user_agent": "Dalvik/2.1.0",
       "kodi": false,
-      "latency_ms": 792,
-      "status": "ALIVE (792ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "Channel News Asia",
@@ -1654,8 +1654,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=821cc0a76b9ae654",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 2276,
-      "status": "ALIVE (2276ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "NHK Premium",
@@ -1687,8 +1687,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=878728aea2f68799",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 3510,
+      "status": "ALIVE (3510ms)"
     },
     {
       "name": "History HD",
@@ -1742,8 +1742,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=6c17be5fefd3d129",
       "user_agent": "Dalvik/2.1.0",
       "kodi": false,
-      "latency_ms": 708,
-      "status": "ALIVE (708ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "BBC Lifestyle",
@@ -1753,8 +1753,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=6e9d9000aa6e2e73",
       "user_agent": "Dalvik/2.1.0",
       "kodi": false,
-      "latency_ms": 1601,
-      "status": "ALIVE (1601ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "BBC World News",
@@ -1786,8 +1786,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=712f28e",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
-      "latency_ms": 1882,
-      "status": "ALIVE (1882ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "CCTV2",
@@ -1797,8 +1797,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=10c332e",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
-      "latency_ms": 2660,
-      "status": "ALIVE (2660ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "CCTV3",
@@ -1874,8 +1874,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=3667033",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
-      "latency_ms": 4196,
-      "status": "ALIVE (4196ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "CCTV9",
@@ -1885,8 +1885,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=f448575",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
-      "latency_ms": 1896,
-      "status": "ALIVE (1896ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "CCTV10",
@@ -1896,8 +1896,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=d8c22cf",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
-      "latency_ms": 1892,
-      "status": "ALIVE (1892ms)"
+      "latency_ms": 0,
+      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
     },
     {
       "name": "CCTV11",
@@ -1940,8 +1940,8 @@
       "url": "https://vietmitv.id.vn/c.php?k=94d1bf4",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
-      "latency_ms": 0,
-      "status": "Nguồn gốc sẵn sàng (Chờ phát tại VN)"
+      "latency_ms": 4034,
+      "status": "ALIVE (4034ms)"
     },
     {
       "name": "CCTV15",
