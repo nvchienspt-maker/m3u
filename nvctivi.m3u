@@ -20,12 +20,12 @@ https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv4hd.png" group-title="⭐️ VTV - Kênh Thiết Yếu",VTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist_360p.m3u8
+https://1011154949.vnns.net/CDN-FPT02/VTV4-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv5hd.png" group-title="⭐️ VTV - Kênh Thiết Yếu",VTV5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/playlist_360p.m3u8
+https://1011154949.vnns.net/CDN-FPT02/VTV5-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/vtv6hd.png" group-title="⭐️ VTV - Kênh Thiết Yếu",VTV6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -395,7 +395,7 @@ https://vietmitv.id.vn/c.php?k=0fa218e
 #EXTINF:-1 tvg-id="onmovies" tvg-name="On Movies" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onmovies.png" group-title="VTVcab",On Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=2a92be7
+https://vietmitv.id.vn/c.php?k=6d5e19c
 
 #EXTINF:-1 tvg-id="onechannel" tvg-name="ON E- Channel" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onechannel.png" group-title="VTVcab",ON E- Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -425,12 +425,7 @@ https://vietmitv.id.vn/c.php?k=13fa5d2
 #EXTINF:-1 tvg-id="onstyle" tvg-name="ON Style TV" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onstyle.png" group-title="VTVcab",ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=212c7c8
-
-#EXTINF:-1 tvg-id="onkids" tvg-name="On Kids" tvg-logo="https://raw.githubusercontent.com/nvctivi/m3u/main/logos/onkids.png" group-title="👧 Thiếu Nhi & Gia Đình",On Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://vietmitv.id.vn/c.php?k=facd9a9
+https://vietmitv.id.vn/c.php?k=db10182
 
 #EXTINF:-1 tvg-id="onmusic" tvg-name="On Music" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/main/logos/onmusic.png" group-title="VTVcab",On Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
