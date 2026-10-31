@@ -24,7 +24,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9951
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv5hd.png" group-title="VTV",VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
+https://freem3u.xyz/api/live/play.m3u8?vid=110
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv6hd.png" group-title="VTV",VTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -293,6 +293,14 @@ https://freem3u.xyz/api/live/play.m3u8?vid=232
 #EXTINF:-1 tvg-id="sctv7hd" tvg-name="SCTV7" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv7hd.png" group-title="SCTV",SCTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv7
+
+#EXTINF:-1 tvg-id="sctv9hd" tvg-name="SCTV9" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv9hd.png" group-title="SCTV",SCTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://vmttv.dpdns.org/VTVGo/?sctv9
+
+#EXTINF:-1 tvg-id="sctv10" tvg-name="SCTV10" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv10.png" group-title="SCTV",SCTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://vmttv.dpdns.org/VTVGo/?sctv10
 
 #EXTINF:-1 tvg-id="sctv11hd" tvg-name="SCTV11" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv11hd.png" group-title="SCTV",SCTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -670,10 +678,6 @@ https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://live.canthotv.vn/cs2/live.stream/chunklist_w1497265452.m3u8
 
-#EXTINF:-1 tvg-id="cantho3" tvg-name="Cần Thơ 3 HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/cantho3.png" group-title="Địa Phương",Cần Thơ 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.canthotv.vn/cs3/tv/chunklist_w1003748170.m3u8
-
 #EXTINF:-1 tvg-id="sonla" tvg-name="STV HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sonla.png" group-title="Địa Phương",STV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
@@ -806,7 +810,7 @@ https://vmttv.dpdns.org/tv360/?id=bac-ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=48
 
-#EXTINF:-1 tvg-id="hungyen" tvg-name="HYTV HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hungyen.png" group-title="Địa Phương",HYTV HD
+#EXTINF:-1 tvg-id="hungyen" tvg-name="HY" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hungyen.png" group-title="Địa Phương",HY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://vmttv.dpdns.org/tv360/?id=hung-yen
 
