@@ -52,7 +52,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=180
 
 #EXTINF:-1 tvg-id="on_phim" tvg-name="ON Phim Việt" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/on_phim.png" group-title="VTVCab",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Phim_Viet_HD
 
 #EXTINF:-1 tvg-id="on_movies" tvg-name="On Movies - You TV" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/on_movies.png" group-title="VTVCab",On Movies - You TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -525,6 +525,10 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-BHTTV_HD-Truyen_hinh_Bao_Ha_Tinh
 #EXTINF:-1 tvg-id="ttvththanhhoahd" tvg-name="TTV - TH THANH HÓA HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/ttvththanhhoahd.png" group-title="Địa Phương",TTV - TH THANH HÓA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TTV-Truyen_hinh_Thanh_Hoa_HD
+
+#EXTINF:-1 tvg-id="fm927tintuchungyenvanhoadansinh" tvg-name="FM92.7 • TIN TỨC HƯNG YÊN & VĂN HÓA - DÂN SINH" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/fm927tintuchungyenvanhoadansinh.png" group-title="Địa Phương",FM92.7 • TIN TỨC HƯNG YÊN & VĂN HÓA - DÂN SINH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-HYTV-Phat_thanh_Hung_Yen
 
 #EXTINF:-1 tvg-id="ntvthngheanhd" tvg-name="NTV - TH NGHỆ AN HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/ntvthngheanhd.png" group-title="Địa Phương",NTV - TH NGHỆ AN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36

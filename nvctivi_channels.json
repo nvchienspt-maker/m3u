@@ -1,11 +1,11 @@
 {
   "app": "NVC Tivi",
   "version": "2.0.0",
-  "generated_at": "2026-10-31 23:32:59",
-  "total_channels": 258,
-  "source1_channels": 111,
-  "source2_channels": 162,
-  "source3_channels": 181,
+  "generated_at": "2026-11-01 06:13:33",
+  "total_channels": 252,
+  "source1_channels": 103,
+  "source2_channels": 163,
+  "source3_channels": 188,
   "epg_urls": [
     "https://epgvn.vercel.app/epg.xml",
     "https://epg.io.vn/epgc.xml"
@@ -67,7 +67,7 @@
       "url": "https://vietmitv.id.vn/c.php?k=ae8ecf4",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (Verified HLS)"
+      "status": "LIVE (HLS Chunks)"
     },
     {
       "name": "VTV6",
@@ -97,17 +97,17 @@
       "url": "https://vietmitv.id.vn/c.php?k=561dba2",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "VTV9",
       "group": "VTV",
       "tvg_id": "vtv9hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/vtv9hd.png",
-      "url": "https://vmttv.dpdns.org/tv360/?id=vtv9",
+      "url": "https://vietmitv.id.vn/c.php?k=74d6bd9",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (Verified HLS)"
+      "status": "LIVE (HLS Chunks)"
     },
     {
       "name": "VTV10",
@@ -144,7 +144,7 @@
       "group": "VTVCab",
       "tvg_id": "onviegiaitri",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onviegiaitri.png",
-      "url": "https://vietmitv.id.vn/c.php?k=5c975ba",
+      "url": "https://vietmitv.id.vn/c.php?k=2a92be7",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (Verified HLS)"
@@ -164,10 +164,10 @@
       "group": "VTVCab",
       "tvg_id": "onmovies",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onmovies.png",
-      "url": "https://vietmitv.id.vn/c.php?k=6d5e19c",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "ON E- Channel",
@@ -184,30 +184,20 @@
       "group": "VTVCab",
       "tvg_id": "ono2tv",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/ono2tv.png",
-      "url": "https://vietmitv.id.vn/c.php?k=212c7c8",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=136",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "On BiBi",
       "group": "VTVCab",
       "tvg_id": "onbibi",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onbibi.png",
-      "url": "https://vietmitv.id.vn/c.php?k=0009010",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=178",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
-    },
-    {
-      "name": "ON Info TV",
-      "group": "VTVCab",
-      "tvg_id": "oninfotv",
-      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/oninfotv.png",
-      "url": "https://vietmitv.id.vn/c.php?k=bcb8ad9",
-      "user_agent": "Dalvik/2.1.0",
-      "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "ON Cine",
@@ -234,20 +224,20 @@
       "group": "VTVCab",
       "tvg_id": "onmusic",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onmusic.png",
-      "url": "https://vietmitv.id.vn/c.php?k=2406e6c",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=185",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "ON TRENDING TV",
       "group": "VTVCab",
       "tvg_id": "ontrending",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/ontrending.png",
-      "url": "https://vietmitv.id.vn/c.php?k=93f5539",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=186",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "ON V Family",
@@ -264,10 +254,10 @@
       "group": "VTVCab",
       "tvg_id": "onkids",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onkids.png",
-      "url": "https://vietmitv.id.vn/c.php?k=facd9a9",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "On Life",
@@ -304,10 +294,10 @@
       "group": "VTVCab",
       "tvg_id": "onfootball",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/onfootball.png",
-      "url": "https://vietmitv.id.vn/c.php?k=d53ed82",
+      "url": "https://livevliatmcdw.seenow.vn/live/data8/BONGDA_HD/Live_DASHDRM/BONGDA_HD.mpd",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (DASH/DRM)"
+      "status": "LIVE (Geo-VN 403)"
     },
     {
       "name": "ON GOLF",
@@ -504,10 +494,10 @@
       "group": "HTV",
       "tvg_id": "htv2hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htv2hd.png",
-      "url": "https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd",
+      "url": "https://vietmitv.id.vn/c.php?k=be5d3ca",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "status": "LIVE (Verified HLS)"
+      "status": "LIVE (HLS Chunks)"
     },
     {
       "name": "HTV3",
@@ -534,40 +524,40 @@
       "group": "HTV",
       "tvg_id": "htv7hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htv7hd.png",
-      "url": "https://vietmitv.id.vn/c.php?k=2a99d18",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=193",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "HTV9",
       "group": "HTV",
       "tvg_id": "htv9hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htv9hd.png",
-      "url": "https://vietmitv.id.vn/c.php?k=bfda8fd",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=194",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "HTV Thể Thao",
       "group": "HTV",
       "tvg_id": "htvthethaohd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htvthethaohd.png",
-      "url": "https://vietmitv.id.vn/c.php?k=32d75b2",
+      "url": "https://vmttv.dpdns.org/tv360/?id=htv-the-thao",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "HTVC Thuần Việt",
       "group": "HTV",
       "tvg_id": "htvcthuanviet",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htvcthuanviet.png",
-      "url": "https://vietmitv.id.vn/c.php?k=bc5919a",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=13",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "HTVC Plus",
@@ -584,10 +574,10 @@
       "group": "HTV",
       "tvg_id": "htvcdulichhd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/htvcdulichhd.png",
-      "url": "https://vietmitv.id.vn/c.php?k=37b2310",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=133",
       "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "HTVC Phim",
@@ -704,40 +694,40 @@
       "group": "SCTV",
       "tvg_id": "sctv6hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv6hd.png",
-      "url": "https://vietmitv.id.vn/c.php?k=471875c",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=232",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "SCTV7",
       "group": "SCTV",
       "tvg_id": "sctv7hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv7hd.png",
-      "url": "https://vietmitv.id.vn/c.php?k=fc923bf",
+      "url": "https://vmttv.dpdns.org/VTVGo/?sctv7",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "status": "LIVE (DASH/DRM)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "SCTV8",
       "group": "SCTV",
       "tvg_id": "sctv8hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv8hd.png",
-      "url": "https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8",
+      "url": "https://vietmitv.id.vn/c.php?k=e1d0f56",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "status": "LIVE (Geo-VN 403)"
+      "status": "LIVE (DASH/DRM)"
     },
     {
       "name": "SCTV9",
       "group": "SCTV",
       "tvg_id": "sctv9",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv9.png",
-      "url": "https://vmttv.dpdns.org/VTVGo/?sctv9",
+      "url": "https://vietmitv.id.vn/c.php?k=ebfd0fe",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "status": "LIVE (Verified HLS)"
+      "status": "LIVE (DASH/DRM)"
     },
     {
       "name": "SCTV10",
@@ -754,10 +744,10 @@
       "group": "SCTV",
       "tvg_id": "sctv11hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv11hd.png",
-      "url": "https://vietmitv.id.vn/c.php?k=409491c",
+      "url": "https://vmttv.dpdns.org/VTVGo/?sctv11",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "status": "LIVE (DASH/DRM)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "SCTV12",
@@ -774,10 +764,10 @@
       "group": "SCTV",
       "tvg_id": "sctv13hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv13hd.png",
-      "url": "https://vietmitv.id.vn/c.php?k=b92a0a7",
+      "url": "https://vmttv.dpdns.org/VTVGo/?sctv13",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "status": "LIVE (DASH/DRM)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "SCTV14",
@@ -804,10 +794,10 @@
       "group": "SCTV",
       "tvg_id": "sctv16hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv16hd.png",
-      "url": "https://vmttv.dpdns.org/VTVGo/?sctv16",
+      "url": "https://vietmitv.id.vn/c.php?k=d64f3bc",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "status": "LIVE (Verified HLS)"
+      "status": "LIVE (DASH/DRM)"
     },
     {
       "name": "SCTV17",
@@ -844,10 +834,10 @@
       "group": "SCTV",
       "tvg_id": "sctv20hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv20hd.png",
-      "url": "https://vietmitv.id.vn/c.php?k=834c06b",
+      "url": "https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "status": "LIVE (DASH/DRM)"
+      "status": "LIVE (Geo-VN 403)"
     },
     {
       "name": "SCTV21 - Việt Nam Ký Ức",
@@ -864,30 +854,30 @@
       "group": "SCTV",
       "tvg_id": "sctv22hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv22hd.png",
-      "url": "https://vietmitv.id.vn/c.php?k=83434df",
+      "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "status": "LIVE (DASH/DRM)"
+      "status": "LIVE (Geo-VN 403)"
     },
     {
       "name": "SCTV Phim Tổng Hợp",
       "group": "SCTV",
       "tvg_id": "sctvhdpth",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctvhdpth.png",
-      "url": "https://vietmitv.id.vn/c.php?k=be66646",
+      "url": "https://vmttv.dpdns.org/VTVGo/?sctvphim",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": false,
-      "status": "LIVE (DASH/DRM)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "Box Movie 1",
       "group": "Quốc Tế",
       "tvg_id": "boxmovie1",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/boxmovie1.png",
-      "url": "https://vietmitv.id.vn/c.php?k=bacd3fe1bac3a7b6",
+      "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BM1/manifest.mpd",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (DASH/DRM)"
+      "status": "LIVE (Geo-VN 403)"
     },
     {
       "name": "Hollywood Classics",
@@ -904,10 +894,10 @@
       "group": "Quốc Tế",
       "tvg_id": "boxhits",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/boxhits.png",
-      "url": "https://vietmitv.id.vn/c.php?k=0bef0225e3257223",
+      "url": "https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (DASH/DRM)"
+      "status": "LIVE (Geo-VN 403)"
     },
     {
       "name": "Music Box",
@@ -924,17 +914,17 @@
       "group": "Quốc Tế",
       "tvg_id": "woman",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/woman.png",
-      "url": "https://vietmitv.id.vn/c.php?k=904298f83bf8f8fc",
+      "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/WO/manifest.mpd",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (DASH/DRM)"
+      "status": "LIVE (Geo-VN 403)"
     },
     {
       "name": "TVB Việt Nam",
       "group": "Quốc Tế",
       "tvg_id": "tvb-vietnam",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/tvb-vietnam.png",
-      "url": "https://vietmitv.id.vn/c.php?k=24a932f1ddbed2be",
+      "url": "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -944,7 +934,7 @@
       "group": "Quốc Tế",
       "tvg_id": "warnertv",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/warnertv.png",
-      "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd",
+      "url": "https://vietmitv.id.vn/c.php?k=8e2e6b0ad094042e",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (DASH/DRM)"
@@ -954,7 +944,7 @@
       "group": "Quốc Tế",
       "tvg_id": "hbo",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hbo.png",
-      "url": "https://vietmitv.id.vn/c.php?k=4644b6539c2b01ef",
+      "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (DASH/DRM)"
@@ -964,7 +954,7 @@
       "group": "Quốc Tế",
       "tvg_id": "cinemaworld",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/cinemaworld.png",
-      "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd",
+      "url": "https://vietmitv.id.vn/c.php?k=86fa514c8c5a9a2d",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (DASH/DRM)"
@@ -994,7 +984,7 @@
       "group": "Quốc Tế",
       "tvg_id": "cartoonnetwork",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/cartoonnetwork.png",
-      "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd",
+      "url": "https://vietmitv.id.vn/c.php?k=2740d958315d8330",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (DASH/DRM)"
@@ -1054,20 +1044,10 @@
       "group": "Quốc Tế",
       "tvg_id": "kix",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/kix.png",
-      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9901",
+      "url": "https://vietmitv.id.vn/c.php?k=efa3a413e6c10a76",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (Verified HLS)"
-    },
-    {
-      "name": "Animal-planet",
-      "group": "Quốc Tế",
-      "tvg_id": "animal-planet",
-      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/animal-planet.png",
-      "url": "https://vietmitv.id.vn/c.php?k=a1c43ecee3142bde",
-      "user_agent": "Dalvik/2.1.0",
-      "kodi": true,
-      "status": "LIVE (DASH/DRM)"
+      "status": "LIVE (HLS Chunks)"
     },
     {
       "name": "Outdoor HD",
@@ -1084,27 +1064,27 @@
       "group": "Quốc Tế",
       "tvg_id": "channelnewsasia",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/channelnewsasia.png",
-      "url": "https://vietmitv.id.vn/c.php?k=e47519e6c738f235",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=112",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "TV5",
       "group": "Quốc Tế",
       "tvg_id": "tv5monde",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/tv5monde.png",
-      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9852",
+      "url": "https://vietmitv.id.vn/c.php?k=40d6b44",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (Verified HLS)"
+      "status": "LIVE (Geo-VN 403)"
     },
     {
       "name": "Discovery",
       "group": "Quốc Tế",
       "tvg_id": "discovery",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/discovery.png",
-      "url": "https://vietmitv.id.vn/c.php?k=567304155a4cc5a6",
+      "url": "https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (DASH/DRM)"
@@ -1114,7 +1094,7 @@
       "group": "Quốc Tế",
       "tvg_id": "tlc",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/tlc.png",
-      "url": "https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd",
+      "url": "https://vietmitv.id.vn/c.php?k=b67394734333293f",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (DASH/DRM)"
@@ -1124,7 +1104,7 @@
       "group": "Quốc Tế",
       "tvg_id": "discoveryasia",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/discoveryasia.png",
-      "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd",
+      "url": "https://vietmitv.id.vn/c.php?k=b693e9402a6c954e",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (DASH/DRM)"
@@ -1134,7 +1114,7 @@
       "group": "Quốc Tế",
       "tvg_id": "fashiontv",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/fashiontv.png",
-      "url": "https://vietmitv.id.vn/c.php?k=e2274e6cafda91a9",
+      "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (DASH/DRM)"
@@ -1154,10 +1134,10 @@
       "group": "Quốc Tế",
       "tvg_id": "hgtv",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hgtv.png",
-      "url": "https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8",
+      "url": "https://vietmitv.id.vn/c.php?k=78d0ce6ae5ebab98",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (Geo-VN 403)"
+      "status": "LIVE (DASH/DRM)"
     },
     {
       "name": "KBS World",
@@ -1180,21 +1160,11 @@
       "status": "LIVE (Verified HLS)"
     },
     {
-      "name": "NHK Premium",
-      "group": "Quốc Tế",
-      "tvg_id": "nhk_premium",
-      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/nhk_premium.png",
-      "url": "https://vietmitv.id.vn/c.php?k=3714b1cfca8cac1f",
-      "user_agent": "Dalvik/2.1.0",
-      "kodi": true,
-      "status": "LIVE (HLS Chunks)"
-    },
-    {
       "name": "France 24",
       "group": "Quốc Tế",
       "tvg_id": "france24",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/france24.png",
-      "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
+      "url": "https://vietmitv.id.vn/c.php?k=61ba002639c4e0c8",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1214,27 +1184,27 @@
       "group": "Quốc Tế",
       "tvg_id": "historyhd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/historyhd.png",
-      "url": "https://vietmitv.id.vn/c.php?k=305d4427559fc994",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "DW - Deutsche Welle",
       "group": "Quốc Tế",
       "tvg_id": "dw",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dw.png",
-      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=109",
+      "url": "https://vietmitv.id.vn/c.php?k=0c33f1bb2e61a86e",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (Verified HLS)"
+      "status": "LIVE (HLS Chunks)"
     },
     {
       "name": "CNN",
       "group": "Quốc Tế",
       "tvg_id": "cnn",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/cnn.png",
-      "url": "https://vietmitv.id.vn/c.php?k=eba2439a51a6257a",
+      "url": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (DASH/DRM)"
@@ -1244,17 +1214,17 @@
       "group": "Quốc Tế",
       "tvg_id": "arirang",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/arirang.png",
-      "url": "https://vietmitv.id.vn/c.php?k=870c56b7cc5a7762",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=111",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "Bloomberg",
       "group": "Quốc Tế",
       "tvg_id": "bloomberg",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/bloomberg.png",
-      "url": "https://vietmitv.id.vn/c.php?k=6c17be5fefd3d129",
+      "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (DASH/DRM)"
@@ -1264,7 +1234,7 @@
       "group": "Quốc Tế",
       "tvg_id": "bbclifestyle",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/bbclifestyle.png",
-      "url": "https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd",
+      "url": "https://vietmitv.id.vn/c.php?k=6e9d9000aa6e2e73",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (DASH/DRM)"
@@ -1274,7 +1244,7 @@
       "group": "Quốc Tế",
       "tvg_id": "bbcnews",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/bbcnews.png",
-      "url": "https://vietmitv.id.vn/c.php?k=edd17cbf576e0ecd",
+      "url": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (DASH/DRM)"
@@ -1284,7 +1254,7 @@
       "group": "Quốc Tế",
       "tvg_id": "bbcearth",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/bbcearth.png",
-      "url": "https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd",
+      "url": "https://vietmitv.id.vn/c.php?k=384ccba07667b439",
       "user_agent": "Dalvik/2.1.0",
       "kodi": true,
       "status": "LIVE (DASH/DRM)"
@@ -1294,7 +1264,7 @@
       "group": "Quốc Tế",
       "tvg_id": "enc-cctv1",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv1.png",
-      "url": "https://vietmitv.id.vn/c.php?k=712f28e",
+      "url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1314,7 +1284,7 @@
       "group": "Quốc Tế",
       "tvg_id": "enc-cctv3",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv3.png",
-      "url": "https://vietmitv.id.vn/c.php?k=9a161b7",
+      "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1324,7 +1294,7 @@
       "group": "Quốc Tế",
       "tvg_id": "enc-cctv4",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv4.png",
-      "url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
+      "url": "https://vietmitv.id.vn/c.php?k=bc3a732",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1334,7 +1304,7 @@
       "group": "Quốc Tế",
       "tvg_id": "enc-cctv6",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv6.png",
-      "url": "https://vietmitv.id.vn/c.php?k=e35e8f9",
+      "url": "http://74.91.26.218:82/live/cctv6hd.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1344,7 +1314,7 @@
       "group": "Quốc Tế",
       "tvg_id": "enc-cctv7",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv7.png",
-      "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+      "url": "https://vietmitv.id.vn/c.php?k=004ed2b",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1354,7 +1324,7 @@
       "group": "Quốc Tế",
       "tvg_id": "enc-cctv8",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv8.png",
-      "url": "https://vietmitv.id.vn/c.php?k=3667033",
+      "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1364,7 +1334,7 @@
       "group": "Quốc Tế",
       "tvg_id": "enc-cctv9",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv9.png",
-      "url": "https://vietmitv.id.vn/c.php?k=f448575",
+      "url": "http://74.91.26.218:82/live/cctv9hd.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1374,7 +1344,7 @@
       "group": "Quốc Tế",
       "tvg_id": "enc-cctv10",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv10.png",
-      "url": "https://vietmitv.id.vn/c.php?k=d8c22cf",
+      "url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1394,7 +1364,7 @@
       "group": "Quốc Tế",
       "tvg_id": "enc-cctv12",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv12.png",
-      "url": "https://vietmitv.id.vn/c.php?k=e49e932",
+      "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1404,7 +1374,7 @@
       "group": "Quốc Tế",
       "tvg_id": "enc-cctv13",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv13.png",
-      "url": "http://74.91.26.218:82/live/cctv13hd.m3u8",
+      "url": "https://vietmitv.id.vn/c.php?k=2e5409a",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1414,7 +1384,7 @@
       "group": "Quốc Tế",
       "tvg_id": "enc-cctv14",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv14.png",
-      "url": "https://vietmitv.id.vn/c.php?k=94d1bf4",
+      "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1444,7 +1414,7 @@
       "group": "Quốc Tế",
       "tvg_id": "enc-cctv17",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/enc-cctv17.png",
-      "url": "https://vietmitv.id.vn/c.php?k=62ef208",
+      "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1567,7 +1537,7 @@
       "url": "https://vietmitv.id.vn/c.php?k=983c968",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "Quốc Phòng Việt Nam",
@@ -1577,14 +1547,14 @@
       "url": "https://vietmitv.id.vn/c.php?k=dbe430c",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "Vĩnh Long 1",
       "group": "Địa Phương",
       "tvg_id": "thvl1hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/thvl1hd.png",
-      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=25",
+      "url": "https://vietmitv.id.vn/c.php?k=ddf8023",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
       "status": "LIVE (Verified HLS)"
@@ -1625,16 +1595,6 @@
       "tvg_id": "thvl5hd",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/thvl5hd.png",
       "url": "https://vietmitv.id.vn/c.php?k=a0e1fce",
-      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-      "kodi": true,
-      "status": "LIVE (Verified HLS)"
-    },
-    {
-      "name": "Tây Ninh",
-      "group": "Địa Phương",
-      "tvg_id": "tayninhtv",
-      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/tayninhtv.png",
-      "url": "https://vietmitv.id.vn/c.php?k=bc10e1b",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1724,17 +1684,27 @@
       "group": "Địa Phương",
       "tvg_id": "dongnai1",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dongnai1.png",
-      "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-DN1-Truyen_hinh_Dong_Nai_1_HD",
+      "url": "https://vietmitv.id.vn/c.php?k=74f65ba",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "status": "LIVE (Verified HLS)"
+      "status": "LIVE (HLS Chunks)"
     },
     {
       "name": "Đồng Nai 2",
       "group": "Địa Phương",
       "tvg_id": "dongnai2",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dongnai2.png",
-      "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-DN2-Truyen_hinh_Dong_Nai_2_HD",
+      "url": "https://vietmitv.id.vn/c.php?k=5f912b7",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+      "kodi": true,
+      "status": "LIVE (HLS Chunks)"
+    },
+    {
+      "name": "Đồng Nai 3",
+      "group": "Địa Phương",
+      "tvg_id": "dnrtv3",
+      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dnrtv3.png",
+      "url": "https://vietmitv.id.vn/c.php?k=9a063dd",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
       "status": "LIVE (Verified HLS)"
@@ -1774,7 +1744,7 @@
       "group": "Địa Phương",
       "tvg_id": "danang2",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/danang2.png",
-      "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-DNRT2-Truyen_hinh_Da_Nang_2_HD",
+      "url": "https://vietmitv.id.vn/c.php?k=f74e4b2",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1785,16 +1755,6 @@
       "tvg_id": "daklak",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/daklak.png",
       "url": "https://vietmitv.id.vn/c.php?k=44808f8",
-      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-      "kodi": true,
-      "status": "LIVE (HLS Chunks)"
-    },
-    {
-      "name": "Quảng Ngãi",
-      "group": "Địa Phương",
-      "tvg_id": "quangngai",
-      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/quangngai.png",
-      "url": "https://vietmitv.id.vn/c.php?k=4d647fa",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1830,26 +1790,6 @@
       "status": "LIVE (HLS Chunks)"
     },
     {
-      "name": "Bắc Ninh",
-      "group": "Địa Phương",
-      "tvg_id": "bacninh",
-      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/bacninh.png",
-      "url": "https://vietmitv.id.vn/c.php?k=78e5139",
-      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-      "kodi": true,
-      "status": "LIVE (HLS Chunks)"
-    },
-    {
-      "name": "Điện Biên",
-      "group": "Địa Phương",
-      "tvg_id": "dienbien",
-      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/dienbien.png",
-      "url": "https://vietmitv.id.vn/c.php?k=d1c588d",
-      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-      "kodi": true,
-      "status": "LIVE (HLS Chunks)"
-    },
-    {
       "name": "Hà Tĩnh",
       "group": "Địa Phương",
       "tvg_id": "hatinh",
@@ -1864,47 +1804,27 @@
       "group": "Địa Phương",
       "tvg_id": "haiphong",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/haiphong.png",
-      "url": "https://vietmitv.id.vn/c.php?k=0638cb0",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=60",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "Hải Phòng 3",
       "group": "Địa Phương",
       "tvg_id": "haiphongplus",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/haiphongplus.png",
-      "url": "https://vietmitv.id.vn/c.php?k=1bc562a",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=59",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
-      "status": "LIVE (HLS Chunks)"
+      "status": "LIVE (Verified HLS)"
     },
     {
-      "name": "Lạng Sơn",
+      "name": "Hưng Yên",
       "group": "Địa Phương",
-      "tvg_id": "langson",
-      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/langson.png",
-      "url": "https://vietmitv.id.vn/c.php?k=275cbb6",
-      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-      "kodi": true,
-      "status": "LIVE (HLS Chunks)"
-    },
-    {
-      "name": "Lào Cai",
-      "group": "Địa Phương",
-      "tvg_id": "laocai",
-      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/laocai.png",
-      "url": "https://vietmitv.id.vn/c.php?k=bf2f8d5",
-      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-      "kodi": true,
-      "status": "LIVE (HLS Chunks)"
-    },
-    {
-      "name": "Nghệ An",
-      "group": "Địa Phương",
-      "tvg_id": "nghean",
-      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/nghean.png",
-      "url": "https://vietmitv.id.vn/c.php?k=1e3801f",
+      "tvg_id": "hungyen",
+      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hungyen.png",
+      "url": "https://vietmitv.id.vn/c.php?k=9858cf6",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -1914,27 +1834,17 @@
       "group": "Địa Phương",
       "tvg_id": "ninhbinh",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/ninhbinh.png",
-      "url": "https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/chunklist.m3u8",
+      "url": "https://vietmitv.id.vn/c.php?k=20c1988",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
     },
     {
-      "name": "Thái Nguyên",
+      "name": "Sơn La",
       "group": "Địa Phương",
-      "tvg_id": "thainguyen",
-      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/thainguyen.png",
-      "url": "https://vietmitv.id.vn/c.php?k=d7e11ac",
-      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-      "kodi": true,
-      "status": "LIVE (HLS Chunks)"
-    },
-    {
-      "name": "Tuyên Quang",
-      "group": "Địa Phương",
-      "tvg_id": "tuyenquang",
-      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/tuyenquang.png",
-      "url": "https://vietmitv.id.vn/c.php?k=7ad021d",
+      "tvg_id": "sonla",
+      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sonla.png",
+      "url": "https://vietmitv.id.vn/c.php?k=6f5e02d",
       "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
       "kodi": true,
       "status": "LIVE (HLS Chunks)"
@@ -2070,16 +1980,6 @@
       "status": "LIVE (Verified HLS)"
     },
     {
-      "name": "KTV HD",
-      "group": "Địa Phương",
-      "tvg_id": "khanhhoa",
-      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/khanhhoa.png",
-      "url": "https://vmttv.dpdns.org/tv360/?id=khanh-hoa",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "kodi": false,
-      "status": "LIVE (Verified HLS)"
-    },
-    {
       "name": "Huế TV",
       "group": "Địa Phương",
       "tvg_id": "hue",
@@ -2204,10 +2104,10 @@
       "group": "Địa Phương",
       "tvg_id": "bacninh",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/bacninh.png",
-      "url": "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/bac-ninh/KenhCoBan.m3u8",
+      "url": "https://vmttv.dpdns.org/tv360/?id=bac-ninh",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": false,
-      "status": "LIVE (Geo-VN 403)"
+      "status": "LIVE (Verified HLS)"
     },
     {
       "name": "CRTV HD - Báo Cao Bằng",
@@ -2220,11 +2120,31 @@
       "status": "LIVE (Verified HLS)"
     },
     {
+      "name": "HY",
+      "group": "Địa Phương",
+      "tvg_id": "hungyen",
+      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hungyen.png",
+      "url": "https://vmttv.dpdns.org/tv360/?id=hung-yen",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "kodi": false,
+      "status": "LIVE (Verified HLS)"
+    },
+    {
       "name": "LTV - Báo Lai Châu",
       "group": "Địa Phương",
       "tvg_id": "laichau",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/laichau.png",
       "url": "https://freem3u.xyz/api/live/play.m3u8?vid=68",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "kodi": false,
+      "status": "LIVE (Verified HLS)"
+    },
+    {
+      "name": "KTV1 HD",
+      "group": "Địa Phương",
+      "tvg_id": "khanhhoa1",
+      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/khanhhoa1.png",
+      "url": "https://vmttv.dpdns.org/tv360/?id=khanh-hoa-1",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": false,
       "status": "LIVE (Verified HLS)"
@@ -2275,6 +2195,16 @@
       "tvg_id": "lamdong1",
       "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/lamdong1.png",
       "url": "https://freem3u.xyz/api/live/play.m3u8?vid=69",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "kodi": false,
+      "status": "LIVE (Verified HLS)"
+    },
+    {
+      "name": "HiTV",
+      "group": "Địa Phương",
+      "tvg_id": "hitv",
+      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/hitv.png",
+      "url": "https://vmttv.dpdns.org/tv360/?id=hitv",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": false,
       "status": "LIVE (Verified HLS)"
@@ -2348,6 +2278,16 @@
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "kodi": false,
       "status": "LIVE (Verified HLS)"
+    },
+    {
+      "name": "FM92.7 • TIN TỨC HƯNG YÊN & VĂN HÓA - DÂN SINH",
+      "group": "Địa Phương",
+      "tvg_id": "fm927tintuchungyenvanhoadansinh",
+      "logo": "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/fm927tintuchungyenvanhoadansinh.png",
+      "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-HYTV-Phat_thanh_Hung_Yen",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "kodi": false,
+      "status": "LIVE (HLS Chunks)"
     },
     {
       "name": "NTV - TH NGHỆ AN HD",
