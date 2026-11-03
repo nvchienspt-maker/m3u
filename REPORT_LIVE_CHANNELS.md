@@ -1,10 +1,10 @@
 # Báo Cáo Tổng Hợp 3 Nguồn Kênh Truyền Hình NVC Tivi
 
-- **Thời gian xử lý:** 2026-11-02 18:33:52
-- **Nguồn 1 (VXM decrypted):** **40 kênh sống** (`nvctivi_source1.m3u`)
-- **Nguồn 2 (IPTV-Auto):** **162 kênh sống** (`nvctivi_source2.m3u`)
-- **Nguồn 3 (VMTTV):** **170 kênh sống** (`nvctivi_source3.m3u`)
-- **Playlist Master Tổng Hợp:** **247 kênh sống** (`nvctivi.m3u`)
+- **Thời gian xử lý:** 2026-11-03 02:26:50
+- **Nguồn 1 (VXM decrypted):** **90 kênh sống** (`nvctivi_source1.m3u`)
+- **Nguồn 2 (IPTV-Auto):** **163 kênh sống** (`nvctivi_source2.m3u`)
+- **Nguồn 3 (VMTTV):** **184 kênh sống** (`nvctivi_source3.m3u`)
+- **Playlist Master Tổng Hợp:** **270 kênh sống** (`nvctivi.m3u`)
 - **EPG tích hợp:** `https://epgvn.vercel.app/epg.xml`, `https://epg.io.vn/epgc.xml`
 - **Đường dẫn Logo chuẩn:** `https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/`
 
@@ -12,12 +12,12 @@
 
 | STT | Nhóm Kênh | Nguồn 1 (VXM) | Nguồn 2 (IPTV-Auto) | Nguồn 3 (VMTTV) | Master Tổng Hợp |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| 1 | **VTV** | 0 | 9 | 3 | 10 |
-| 2 | **VTVCab** | 1 | 18 | 30 | 34 |
-| 3 | **HTV** | 0 | 16 | 13 | 16 |
+| 1 | **VTV** | 9 | 9 | 11 | 12 |
+| 2 | **VTVCab** | 8 | 18 | 31 | 35 |
+| 3 | **HTV** | 5 | 16 | 14 | 16 |
 | 4 | **SCTV** | 6 | 21 | 22 | 23 |
-| 5 | **Quốc Tế** | 20 | 36 | 59 | 67 |
-| 6 | **Địa Phương** | 13 | 62 | 43 | 97 |
-| **Tổng** | **Tất cả các nhóm** | **40** | **162** | **170** | **247** |
+| 5 | **Quốc Tế** | 22 | 36 | 60 | 68 |
+| 6 | **Địa Phương** | 40 | 63 | 46 | 116 |
+| **Tổng** | **Tất cả các nhóm** | **90** | **163** | **184** | **270** |
 
 ---
