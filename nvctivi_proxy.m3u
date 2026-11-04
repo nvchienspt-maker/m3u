@@ -1005,11 +1005,6 @@ https://nvctivi-stream.workers.dev/channel?group=%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://nvctivi-stream.workers.dev/channel?group=%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%A1ng&name=Ninh%20B%C3%ACnh
 
-#EXTINF:-1 tvg-id="phutho" tvg-name="Phú Thọ" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/phutho.png" group-title="Địa Phương",Phú Thọ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://nvctivi-stream.workers.dev/channel?group=%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%A1ng&name=Ph%C3%BA%20Th%E1%BB%8D
-
 #EXTINF:-1 tvg-id="quangninh1" tvg-name="Quảng Ninh 1" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/quangninh1.png" group-title="Địa Phương",Quảng Ninh 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1034,15 +1029,6 @@ https://nvctivi-stream.workers.dev/channel?group=%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://nvctivi-stream.workers.dev/channel?group=%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%A1ng&name=Thanh%20H%C3%B3a
-
-#EXTINF:-1 tvg-id="tuyenquang" tvg-name="Tuyên Quang" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/tuyenquang.png" group-title="Địa Phương",Tuyên Quang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://nvctivi-stream.workers.dev/channel?group=%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%A1ng&name=Tuy%C3%AAn%20Quang
-
-#EXTINF:-1 tvg-id="sonla" tvg-name="STV HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sonla.png" group-title="Địa Phương",STV HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://nvctivi-stream.workers.dev/channel?group=%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%A1ng&name=STV%20HD
 
 #EXTINF:-1 tvg-id="phutho" tvg-name="PTV HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/phutho.png" group-title="Địa Phương",PTV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1079,6 +1065,10 @@ https://nvctivi-stream.workers.dev/channel?group=%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%
 #EXTINF:-1 tvg-id="angiang2" tvg-name="ATV2" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/angiang2.png" group-title="Địa Phương",ATV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nvctivi-stream.workers.dev/channel?group=%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%A1ng&name=ATV2
+
+#EXTINF:-1 tvg-id="ninhbinh" tvg-name="NBTV" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/ninhbinh.png" group-title="Địa Phương",NBTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://nvctivi-stream.workers.dev/channel?group=%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%A1ng&name=NBTV
 
 #EXTINF:-1 tvg-id="nghean" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/nghean.png" group-title="Địa Phương",NTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1267,6 +1257,10 @@ https://nvctivi-stream.workers.dev/channel?group=%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%
 #EXTINF:-1 tvg-id="qngtv1thquangngai1hd" tvg-name="QNgTV1 - TH QUẢNG NGÃI 1 HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/qngtv1thquangngai1hd.png" group-title="Địa Phương",QNgTV1 - TH QUẢNG NGÃI 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://nvctivi-stream.workers.dev/channel?group=%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%A1ng&name=QNgTV1%20-%20TH%20QU%E1%BA%A2NG%20NG%C3%83I%201%20HD
+
+#EXTINF:-1 tvg-id="qngtv2thquangngai2thunghiem" tvg-name="QNgTV2 - TH QUẢNG NGÃI 2 thử nghiệm" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/qngtv2thquangngai2thunghiem.png" group-title="Địa Phương",QNgTV2 - TH QUẢNG NGÃI 2 thử nghiệm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://nvctivi-stream.workers.dev/channel?group=%C4%90%E1%BB%8Ba%20Ph%C6%B0%C6%A1ng&name=QNgTV2%20-%20TH%20QU%E1%BA%A2NG%20NG%C3%83I%202%20th%E1%BB%AD%20nghi%E1%BB%87m
 
 #EXTINF:-1 tvg-id="gtvhdthgialai" tvg-name="GTV HD - TH GIA LAI" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/gtvhdthgialai.png" group-title="Địa Phương",GTV HD - TH GIA LAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
