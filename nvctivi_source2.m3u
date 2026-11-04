@@ -52,7 +52,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=180
 
 #EXTINF:-1 tvg-id="on_phim" tvg-name="ON Phim Việt" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/on_phim.png" group-title="VTVCab",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Phim_Viet_HD
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="on_movies" tvg-name="On Movies - You TV" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/on_movies.png" group-title="VTVCab",On Movies - You TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -649,7 +649,3 @@ https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="btv9bchannel" tvg-name="BTV9 Bchannel" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/btv9bchannel.png" group-title="Địa Phương",BTV9 Bchannel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="btvnews" tvg-name="BTV News" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/btvnews.png" group-title="Địa Phương",BTV News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
