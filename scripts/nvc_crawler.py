@@ -22,7 +22,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 CTX = ssl._create_unverified_context()
 TIMEOUT = 3.5
 
-LOGO_BASE = "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos"
+LOGO_BASE = "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos"
 
 BANNED_DOMAINS = [
     "1011154949.vnns.net",
