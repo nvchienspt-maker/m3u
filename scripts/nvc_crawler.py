@@ -27,12 +27,16 @@ LOGO_BASE = "https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/m
 BANNED_DOMAINS = [
     "1011154949.vnns.net",
     "watchtivo-8k.com",
-    "stream.dongthaptv.vn"
+    "stream.dongthaptv.vn",
+    "vtvprime.vn",
+    "vtvcantho",
+    "vtv_can_tho",
+    "vtv-can-tho"
 ]
 
 GEO_VN_DOMAINS = [
     "fptplay", "vtvdigital.vn", "vtvgo", "tv360", "mytvnet.vn", "vieon",
-    "seenow.vn", "vtvprime.vn", "vietmitv.id.vn", "short.gy", "dpdns.org"
+    "seenow.vn", "vietmitv.id.vn", "short.gy", "dpdns.org"
 ]
 
 ORDERED_GROUPS = [
@@ -78,6 +82,12 @@ def is_movie_or_junk(name, group, url):
     lower_g = group.lower().strip()
     lower_u = url.lower().strip()
     
+    # Loại bỏ hoàn toàn vtvprime và vtvcantho vì luồng không hoạt động / không còn tồn tại
+    if any(k in lower_n for k in ["vtvprime", "vtv can tho", "vtvcantho"]) or any(k in lower_g for k in ["vtvprime", "vtv can tho", "vtvcantho"]):
+        return True
+    if any(k in lower_u for k in ["vtvprime", "vtvcantho", "vtv_can_tho", "vtv-can-tho"]):
+        return True
+
     if not url or not url.startswith("http"):
         return True
     if lower_n in ["unknown", "test", "#extinf:-1"] or len(lower_n) < 2:
@@ -119,15 +129,19 @@ def classify_channel(name, group):
     s = strip_accents(f"{name} {group}").replace("+", "plus")
     lower_n = name.lower()
     
+    # Loại bỏ hoàn toàn vtvprime và vtvcantho khỏi danh sách phát
+    if "vtvprime" in s or "vtv can tho" in s or "vtvcantho" in s:
+        return None
+
     # 1. VTV
     if "vtv" in s and "vtvcab" not in s and "vtvprime" not in s:
-        if any(f"vtv{i}" in s.replace(" ", "") for i in range(1, 13)) or "vtv can tho" in s or "vietnam today" in s:
+        if any(f"vtv{i}" in s.replace(" ", "") for i in range(1, 13)) or "vietnam today" in s:
             return "VTV"
         if "vtv" in strip_accents(group) and "vtvcab" not in strip_accents(group):
             return "VTV"
 
     # 2. VTVCab
-    if "vtvcab" in s or "vtvprime" in s:
+    if "vtvcab" in s:
         return "VTVCab"
     on_channels = [
         "on sports", "on cine", "on movies", "on football", "on golf",
@@ -163,18 +177,12 @@ def get_canonical_key(name, group):
     if "vtv" in s and "vtvcab" not in s and "vtvprime" not in s:
         vtv_m = re.search(r'\bvtv\s*([0-9]+)\b', s)
         if vtv_m: return f"vtv{vtv_m.group(1)}"
-        if "can tho" in s: return "vtvcantho"
         if "5" in s:
             if "tay nguyen" in s: return "vtv5tn"
             if "tay nam bo" in s: return "vtv5tnb"
             return "vtv5"
         if "vietnam today" in s: return "vietnamtoday"
-            
-    # VTVCab
-    if "vtvprime" in s:
-        p_m = re.search(r'vtvprime\s*([0-9]+)', s)
-        if p_m: return f"vtvprime_{p_m.group(1)}"
-            
+
     on_m = re.search(r'\bon\s+([a-z0-9\+]+)', s)
     if on_m:
         sub = on_m.group(1).replace('+', 'plus').replace(' ', '')

@@ -49,8 +49,8 @@ Tất cả các file M3U (bao gồm cả 3 file nguồn riêng và file master) 
 
 | STT | Nhóm Kênh | Nội Dung Kênh Tiêu Biểu |
 | :---: | :--- | :--- |
-| **1** | **VTV** | VTV1 HD, VTV2 HD, VTV3 HD, VTV4, VTV5, VTV5 Tây Nam Bộ, VTV5 Tây Nguyên, VTV Cần Thơ, VTV7, VTV8, VTV9, Vietnam Today |
-| **2** | **VTVCab** | ON Sports, ON Football, ON Golf, ON Cine, On Movies, ON Vie Giải Trí, ON Phim Việt, ON Kids, ON Bibi, VTVPrime... |
+| **1** | **VTV** | VTV1 HD, VTV2 HD, VTV3 HD, VTV4, VTV5, VTV5 Tây Nam Bộ, VTV5 Tây Nguyên, VTV7, VTV8, VTV9, Vietnam Today |
+| **2** | **VTVCab** | ON Sports, ON Football, ON Golf, ON Cine, On Movies, ON Vie Giải Trí, ON Phim Việt, ON Kids, ON Bibi... |
 | **3** | **HTV** | HTV1, HTV2 HD, HTV3, HTV7 HD, HTV9 HD, HTV Thể Thao, HTVC Thuần Việt, HTVC Gia Đình, HTVC Phim HD, HTVC Du Lịch, HTVC Ca Nhạc |
 | **4** | **SCTV** | SCTV Phim Tổng Hợp, SCTV1, SCTV2, SCTV3, SCTV4, SCTV7, SCTV9, SCTV12, SCTV13, SCTV14, SCTV15, SCTV17, SCTV 4K... |
 | **5** | **Quốc Tế** | HBO, Cinemax, CinemaWorld, Warner TV, AXN, Cartoon Network, Cartoonito, DreamWorks, Discovery, TLC, Animal Planet, BBC, CNN, CNBC, NHK World, KBS World... |
