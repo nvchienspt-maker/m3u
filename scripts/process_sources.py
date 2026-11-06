@@ -258,6 +258,16 @@ def get_canonical_key(name, group):
             return "vtv5"
         if "vietnam today" in s: return "vietnamtoday"
 
+    # ON Channels ưu tiên
+    if "on vfamily" in s or "on v family" in s or "vfamily" in s:
+        return "on_vfamily"
+    if "on sports+" in s or "on sports +" in s or "on sports plus" in s or "on sportsplus" in s:
+        return "on_sportsplus"
+    if "on sports" in s:
+        return "on_sports"
+    if "on football" in s:
+        return "on_football"
+
     on_m = re.search(r'\bon\s+([a-z0-9\+]+)', s)
     if on_m:
         sub = on_m.group(1).replace('+', 'plus').replace(' ', '')
@@ -369,6 +379,8 @@ def get_canonical_key(name, group):
     return clean if clean else s
 
 def get_tvg_id(key, orig_id):
+    if key in ["on_vfamily", "on_sports", "on_sportsplus", "on_football"]:
+        return key.replace("_", "")
     if orig_id and len(orig_id) > 2 and "http" not in orig_id:
         return orig_id
     if key.startswith("vtv") and key not in ["vtvcantho", "vtv5tn", "vtv5tnb"]:
@@ -447,17 +459,24 @@ def deep_test_stream(url, ua="Mozilla/5.0"):
 def verify_channel_item(item):
     urls = item['urls']
     ua = item['ua']
+    url_meta = item.get('url_meta', {})
     
     for idx, u in enumerate(urls):
+        u_meta = url_meta.get(u, {})
+        req_ua = u_meta.get('ua') or ua
         attempts = 2 if "vietmitv.id.vn" in u else 1
         for attempt in range(attempts):
-            ok, reason, latency, final_url = deep_test_stream(u, ua)
+            ok, reason, latency, final_url = deep_test_stream(u, req_ua)
             if ok:
                 item['best_url'] = u
                 item['resolved_url'] = final_url
                 item['status'] = reason
                 item['latency'] = latency
                 item['is_live'] = True
+                if u_meta:
+                    item['ua'] = u_meta.get('ua', item['ua'])
+                    item['kodi'] = u_meta.get('kodi', item.get('kodi', False))
+                    item['license'] = u_meta.get('license', item.get('license'))
                 return item
             if attempt < attempts - 1:
                 time.sleep(0.3)
@@ -557,15 +576,27 @@ def process_single_source(raw_channels, source_title, out_m3u_path):
                 'ua': item['ua'],
                 'kodi': item['kodi'],
                 'license': item['license'],
-                'urls': [url]
+                'urls': [url],
+                'url_meta': {url: {'ua': item['ua'], 'kodi': item['kodi'], 'license': item['license']}}
             }
         else:
             if url not in unique_candidates[key]['urls']:
                 unique_candidates[key]['urls'].append(url)
+            if 'url_meta' not in unique_candidates[key]:
+                unique_candidates[key]['url_meta'] = {}
+            unique_candidates[key]['url_meta'][url] = {'ua': item['ua'], 'kodi': item['kodi'], 'license': item['license']}
             if not unique_candidates[key]['kodi'] and item['kodi']:
                 unique_candidates[key]['kodi'] = True
             if not unique_candidates[key]['license'] and item['license']:
                 unique_candidates[key]['license'] = item['license']
+
+    # Ưu tiên nguồn từ vietmitv.id.vn hoặc freem3u.xyz cho ON VFamily, ON SPORTS, ON SPORTS+, ON FOOTBALL
+    priority_on_keys = ["on_vfamily", "on_sports", "on_sportsplus", "on_football"]
+    for key, cand in unique_candidates.items():
+        if key in priority_on_keys:
+            pref = [u for u in cand['urls'] if "vietmitv.id.vn" in u or "freem3u.xyz" in u]
+            others = [u for u in cand['urls'] if u not in pref]
+            cand['urls'] = pref + others
 
     print(f"  • Đã loại bỏ link phim, VOD và rác: {movie_junk_count} mục")
     print(f"  • Kênh duy nhất sau khi xoá trùng lặp: {len(unique_candidates)} kênh")
